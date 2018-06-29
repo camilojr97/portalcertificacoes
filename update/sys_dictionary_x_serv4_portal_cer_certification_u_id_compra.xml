@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_purchase_status" table="x_serv4_portal_cer_request_certified_purchase">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_id_compra" table="x_serv4_portal_cer_certification">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -12,10 +12,10 @@
 	return '';  // return the calculated value
 
 })(current);</calculation>
-        <choice>1</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Purchase Status</column_label>
+        <column_label>ID compra</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,18 +28,18 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_purchase_status</element>
+        <element>u_id_compra</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
-        <name>x_serv4_portal_cer_request_certified_purchase</name>
+        <max_length>32</max_length>
+        <name>x_serv4_portal_cer_certification</name>
         <next_element/>
         <primary>false</primary>
         <read_only>true</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="x_serv4_portal_cer_request_certified_purchase">x_serv4_portal_cer_request_certified_purchase</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -51,18 +51,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>camilo.moraes</sys_created_by>
-        <sys_created_on>2018-06-28 19:21:27</sys_created_on>
+        <sys_created_on>2018-06-29 18:13:41</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>ac3cbce4dbcf1f403b7c7a30ba961935</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Purchase Status</sys_name>
+        <sys_id>ee62b130db0b9f409df332ffaa9619f0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ID compra</sys_name>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
-        <sys_update_name>sys_dictionary_x_serv4_portal_cer_request_certified_purchase_u_purchase_status</sys_update_name>
+        <sys_update_name>sys_dictionary_x_serv4_portal_cer_certification_u_id_compra</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-06-29 13:04:35</sys_updated_on>
+        <sys_updated_on>2018-06-29 18:38:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

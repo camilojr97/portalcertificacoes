@@ -5,13 +5,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>4f1ebc68dbcf1f403b7c7a30ba96194f</sys_id>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>3cbf7c78db479f409df332ffaa96192e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -19,211 +19,239 @@
             <element>number</element>
             <position>1</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>c71ebc68dbcf1f403b7c7a30ba961950</sys_id>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>f4bf7c78db479f409df332ffaa961986</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_category</element>
-            <position>2</position>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>4b1ebc68dbcf1f403b7c7a30ba961950</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_code</element>
-            <position>3</position>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>cb1ebc68dbcf1f403b7c7a30ba961950</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_cooperator</element>
-            <position>4</position>
+            <position>2</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>4f1ebc68dbcf1f403b7c7a30ba961950</sys_id>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>78bf7c78db479f409df332ffaa961986</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_description</element>
-            <position>5</position>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>cf1ebc68dbcf1f403b7c7a30ba961950</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_exam_date</element>
-            <position>6</position>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>431ebc68dbcf1f403b7c7a30ba961951</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_local</element>
-            <position>7</position>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>c31ebc68dbcf1f403b7c7a30ba961951</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>8</position>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>471ebc68dbcf1f403b7c7a30ba961951</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_partner</element>
-            <position>9</position>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>c71ebc68dbcf1f403b7c7a30ba961951</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_password</element>
-            <position>10</position>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>5b1ebc68dbcf1f403b7c7a30ba961951</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_purchase_status</element>
-            <position>11</position>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>db1ebc68dbcf1f403b7c7a30ba961951</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_type</element>
-            <position>12</position>
+            <position>3</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>5f1ebc68dbcf1f403b7c7a30ba961951</sys_id>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>f8bf7c78db479f409df332ffaa961986</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_user</element>
-            <position>13</position>
+            <element>u_code</element>
+            <position>4</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>df1ebc68dbcf1f403b7c7a30ba961951</sys_id>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>7cbf7c78db479f409df332ffaa961986</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_partner</element>
+            <position>5</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>fcbf7c78db479f409df332ffaa961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>6</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>70bf7c78db479f409df332ffaa961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_exam_date</element>
+            <position>7</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>f0bf7c78db479f409df332ffaa961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_local</element>
+            <position>8</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>74bf7c78db479f409df332ffaa961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>f4bf7c78db479f409df332ffaa961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_user</element>
+            <position>10</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>78bf7c78db479f409df332ffaa961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_password</element>
+            <position>11</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>f8bf7c78db479f409df332ffaa961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_value</element>
+            <position>12</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>7cbf7c78db479f409df332ffaa961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_purchase_status</element>
+            <position>13</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>fcbf7c78db479f409df332ffaa961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_category</element>
+            <position>14</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>70bf7c78db479f409df332ffaa961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_status</element>
-            <position>14</position>
+            <position>15</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>531ebc68dbcf1f403b7c7a30ba961952</sys_id>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>f0bf7c78db479f409df332ffaa961988</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>15</position>
+            <position>16</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-28 19:21:42</sys_created_on>
-            <sys_id>d31ebc68dbcf1f403b7c7a30ba961952</sys_id>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>74bf7c78db479f409df332ffaa961988</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-28 19:21:42</sys_updated_on>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reason_for_rejection</element>
+            <position>17</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 14:07:07</sys_created_on>
+            <sys_id>f4bf7c78db479f409df332ffaa961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">871e7468dbcf1f403b7c7a30ba96197c</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 14:07:07</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

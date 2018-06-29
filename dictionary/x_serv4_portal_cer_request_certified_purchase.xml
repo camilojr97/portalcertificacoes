@@ -1,19 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Request Certified Purchase" max_length="40" name="x_serv4_portal_cer_request_certified_purchase" type="collection">
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element label="Category" max_length="40" name="u_category" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element choice="1" label="Category" max_length="40" name="u_category" type="string">
+            <choice>
+                <element label="ALIANÇAS" language="pb" sequence="1" value="1"/>
+                <element label="ALIANZAS" language="es" sequence="1" value="1"/>
+                <element label="ALLIANCES" sequence="1" value="1"/>
+                <element label="ÁREA" language="es" sequence="2" value="2"/>
+                <element label="AREA" language="pb" sequence="2" value="2"/>
+                <element label="AREA" sequence="2" value="2"/>
+                <element label="OPCIONAL" language="es" sequence="3" value="3"/>
+                <element label="OPCIONAL" language="pb" sequence="3" value="3"/>
+                <element label="OPTIONAL" sequence="3" value="3"/>
+                <element label="RFP" sequence="4" value="4"/>
+                <element label="RFP" language="es" sequence="4" value="4"/>
+                <element label="RFP" language="pb" sequence="4" value="4"/>
+            </choice>
+        </element>
         <element label="Code" max_length="40" name="u_code" type="string"/>
-        <element label="Cooperator" max_length="32" name="u_cooperator" reference="u_cooperator" type="reference"/>
-        <element label="Description" max_length="40" name="u_description" type="string"/>
+        <element default="javascript:getuserCooperator()" dynamic_default_value="41e8eef06fc94300b19f17164b3ee4dd" label="Cooperator" max_length="32" name="u_cooperator" read_only="true" reference="u_cooperator" type="reference" use_dynamic_default="true"/>
+        <element label="Description" max_length="1000" name="u_description" type="string"/>
         <element label="Exam Date" max_length="40" name="u_exam_date" type="glide_date"/>
         <element label="Local" max_length="40" name="u_local" type="string"/>
-        <element label="Partner" max_length="32" name="u_partner" reference="x_serv4_portal_cer_partner" type="reference"/>
+        <element choice="1" label="Partner" max_length="32" name="u_partner" reference="x_serv4_portal_cer_partner" type="reference">
+            <choice/>
+        </element>
         <element label="Password" max_length="40" name="u_password" type="string"/>
-        <element label="Purchase Status" max_length="40" name="u_purchase_status" type="string"/>
-        <element label="Status" max_length="40" name="u_status" type="string"/>
-        <element label="Type" max_length="40" name="u_type" type="string"/>
+        <element choice="1" label="Purchase Status" max_length="40" name="u_purchase_status" read_only="true" type="string">
+            <choice>
+                <element label="APPROVED" sequence="1" value="1"/>
+                <element label="APROBADO" language="es" sequence="1" value="1"/>
+                <element label="APROVADO" language="pb" sequence="1" value="1"/>
+                <element label="AGUAR. APROBACIÓN" language="es" sequence="2" value="2"/>
+                <element label="AGUARD. APROVAÇÃO" language="pb" sequence="2" value="2"/>
+                <element label="WAIT. APPROVAL" sequence="2" value="2"/>
+                <element label="RECHAZADO" language="es" sequence="3" value="3"/>
+                <element label="REJECTED" sequence="3" value="3"/>
+                <element label="REJEITADO" language="pb" sequence="3" value="3"/>
+                <element label="CANCELADO" language="es" sequence="4" value="4"/>
+                <element label="CANCELADO" language="pb" sequence="4" value="4"/>
+                <element label="CANCELED" sequence="4" value="4"/>
+            </choice>
+        </element>
+        <element label="Reason for Rejection" max_length="1000" name="u_reason_for_rejection" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="u_status" type="string">
+            <choice>
+                <element label="APPROVED" sequence="1" value="1"/>
+                <element label="APROBADO" language="es" sequence="1" value="1"/>
+                <element label="APROVADO" language="pb" sequence="1" value="1"/>
+                <element label="RECHAZADO" language="es" sequence="2" value="2"/>
+                <element label="REJECTED" sequence="2" value="2"/>
+                <element label="REPROVADO" language="pb" sequence="2" value="2"/>
+            </choice>
+        </element>
+        <element choice="1" label="Type" max_length="40" name="u_type" type="string">
+            <choice>
+                <element label="Technical" sequence="1" value="1"/>
+                <element label="Técnica" language="pb" sequence="1" value="1"/>
+                <element label="Comercial" language="pb" sequence="2" value="2"/>
+                <element label="Sales" sequence="2" value="2"/>
+            </choice>
+        </element>
         <element label="User" max_length="40" name="u_user" type="string"/>
+        <element label="Value" max_length="20" name="u_value" type="currency"/>
         <index name="index">
             <element name="u_cooperator"/>
         </index>

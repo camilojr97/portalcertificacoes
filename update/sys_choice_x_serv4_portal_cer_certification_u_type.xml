@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_type" table="x_serv4_portal_cer_certification" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technical</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_certification</name>
+            <sequence>1</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 19:14:58</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>1b168ef8db0b9f409df332ffaa96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 19:14:58</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Técnica</label>
+            <language>pb</language>
+            <name>x_serv4_portal_cer_certification</name>
+            <sequence>1</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 19:15:11</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>e5368ef8db0b9f409df332ffaa961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 19:15:11</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Comercial</label>
+            <language>pb</language>
+            <name>x_serv4_portal_cer_certification</name>
+            <sequence>2</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 19:15:25</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>05468ef8db0b9f409df332ffaa96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 19:15:25</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sales</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_certification</name>
+            <sequence>2</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 19:15:38</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>9856cef8db0b9f409df332ffaa961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 19:15:38</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_type</element>
+            <name>x_serv4_portal_cer_certification</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 19:14:58</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ae2642f8db0b9f409df332ffaa961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_type</sys_name>
+            <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
+            <sys_update_name>sys_choice_x_serv4_portal_cer_certification_u_type</sys_update_name>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 19:14:58</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

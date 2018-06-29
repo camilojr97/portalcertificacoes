@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_category" table="x_serv4_portal_cer_request_certified_purchase" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ALIANÇAS</label>
+            <language>pb</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>1</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:06:09</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>14b13070db479f409df332ffaa9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:06:09</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ALIANZAS</label>
+            <language>es</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>1</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:10:19</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>70b2f470db479f409df332ffaa961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:10:19</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ALLIANCES</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>1</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:09:39</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>07727870db479f409df332ffaa961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:09:39</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ÁREA</label>
+            <language>es</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>2</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:10:29</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>5bb2f870db479f409df332ffaa961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:10:29</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AREA</label>
+            <language>pb</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>2</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:06:20</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>6ec17070db479f409df332ffaa961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:06:20</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AREA</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>2</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:09:51</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>8692b870db479f409df332ffaa961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:09:51</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OPCIONAL</label>
+            <language>es</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>3</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:10:41</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>42c2f870db479f409df332ffaa961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:10:41</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OPCIONAL</label>
+            <language>pb</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>3</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:06:29</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>acd17070db479f409df332ffaa961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:06:29</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OPTIONAL</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>3</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:10:01</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>28a2b870db479f409df332ffaa96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:10:01</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RFP</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>4</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:11:19</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>2fe23c70db479f409df332ffaa9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:11:19</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RFP</label>
+            <language>es</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>4</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:11:24</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>60f27c70db479f409df332ffaa96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:11:24</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RFP</label>
+            <language>pb</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>4</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:06:40</sys_created_on>
+            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_id>abd17070db479f409df332ffaa961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:06:40</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_category</element>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-06-29 13:06:09</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>fbb1bc30db479f409df332ffaa961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_category</sys_name>
+            <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
+            <sys_update_name>sys_choice_x_serv4_portal_cer_request_certified_purchase_u_category</sys_update_name>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-06-29 13:06:09</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
