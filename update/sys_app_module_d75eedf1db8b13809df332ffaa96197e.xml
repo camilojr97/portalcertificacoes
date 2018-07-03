@@ -6,43 +6,41 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter table="x_serv4_portal_cer_certification">u_audited=true^EQ<item endquery="false" field="u_audited" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter>
+        <filter/>
         <hint/>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Certifications</mobile_title>
+        <mobile_title>Request Certified Purchases</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_serv4_portal_cer_certification</name>
-        <order>140</order>
+        <name>x_serv4_portal_cer_request_certified_purchase</name>
+        <order>135</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>&amp;sysparm_fixed_query=u_cooperator.u_nameDYNAMIC90d1921e5f510100a9ad2572f2b477fe</query>
         <report/>
-        <roles>x_serv4_portal_cer.certification_user</roles>
+        <roles>x_serv4_portal_cer.request_certified_purchase_user,approver_user</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>camilo.moraes</sys_created_by>
-        <sys_created_on>2018-06-29 17:34:11</sys_created_on>
+        <sys_created_on>2018-07-02 20:04:55</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
         <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
-        <sys_id>c21f6d7cdbc79f409df332ffaa96199e</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Todas</sys_name>
+        <sys_id>d75eedf1db8b13809df332ffaa96197e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Minhas Solicitações</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
-        <sys_update_name>sys_app_module_c21f6d7cdbc79f409df332ffaa96199e</sys_update_name>
+        <sys_update_name>sys_app_module_d75eedf1db8b13809df332ffaa96197e</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-03 00:40:46</sys_updated_on>
+        <sys_updated_on>2018-07-02 20:05:18</sys_updated_on>
         <timeline_page/>
-        <title>Todas</title>
+        <title>Minhas Solicitações</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

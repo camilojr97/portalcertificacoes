@@ -24,7 +24,7 @@
         <element label="Date of Certification" max_length="40" name="u_date_certification" type="glide_date"/>
         <element label="Date of Expiration" max_length="40" name="u_date_expiration" type="glide_date"/>
         <element label="Description" max_length="1000" name="u_description" type="string"/>
-        <element label="ID compra" max_length="32" name="u_id_compra" read_only="true" reference="x_serv4_portal_cer_request_certified_purchase" type="reference"/>
+        <element label="ID compra" max_length="40" name="u_id_compra" read_only="true" type="string"/>
         <element label="Partner" max_length="32" name="u_partner" reference="x_serv4_portal_cer_partner" type="reference"/>
         <element choice="1" label="Type" max_length="40" name="u_type" type="string">
             <choice>
