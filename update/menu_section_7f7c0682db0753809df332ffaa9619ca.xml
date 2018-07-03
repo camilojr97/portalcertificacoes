@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_section">
+    <menu_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <contains_menu/>
+        <content_block_menu display_value="Portal Service - Menu - Certificações">2cba8ecedbc353809df332ffaa9619d4</content_block_menu>
+        <db_left_menu_image/>
+        <db_right_menu_image/>
+        <detail_page/>
+        <footer/>
+        <header/>
+        <iframe/>
+        <image/>
+        <image_right/>
+        <logged_on>true</logged_on>
+        <menu_section_color/>
+        <name>&lt;div style="width:200px; float:left"&gt;Certificações&lt;/span&gt;</name>
+        <omit_body>false</omit_body>
+        <order>2</order>
+        <roles/>
+        <second_level_text/>
+        <sys_class_name>menu_section</sys_class_name>
+        <sys_created_by>camilo.moraes</sys_created_by>
+        <sys_created_on>2018-07-03 16:57:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7f7c0682db0753809df332ffaa9619ca</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>&lt;div style="width:200px; float:left"&gt;Certificações&lt;/span&gt;</sys_name>
+        <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
+        <sys_update_name>menu_section_7f7c0682db0753809df332ffaa9619ca</sys_update_name>
+        <sys_updated_by>camilo.moraes</sys_updated_by>
+        <sys_updated_on>2018-07-03 17:06:03</sys_updated_on>
+        <tag/>
+        <target>internal</target>
+        <type>url</type>
+        <url/>
+    </menu_section>
+    <sys_translated_text action="delete_multiple" query="documentkey=7f7c0682db0753809df332ffaa9619ca"/>
+</record_update>

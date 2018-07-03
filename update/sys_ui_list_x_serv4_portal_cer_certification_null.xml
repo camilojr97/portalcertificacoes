@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_list parent="" relationship="" sys_domain="c90a2b444a3623120064ed56263be407" table="x_serv4_portal_cer_certification" version="2" view="">
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_serv4_portal_cer_certification" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
@@ -163,21 +163,21 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-02 16:52:28</sys_created_on>
+            <sys_created_on>2018-07-03 17:34:14</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
-            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
-            <sys_id>c0528571db0b13809df332ffaa961925</sys_id>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d759ac6db0753809df332ffaa9619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name/>
-            <sys_package/>
+            <sys_name>x_serv4_portal_cer_certification</sys_name>
+            <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
-            <sys_update_name/>
+            <sys_update_name>sys_ui_list_x_serv4_portal_cer_certification_null</sys_update_name>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-02 16:52:28</sys_updated_on>
-            <sys_user display_value="Camilo Junior Martins de Moraes">7265ee260fcf0f404ec87cca42050eba</sys_user>
+            <sys_updated_on>2018-07-03 17:34:14</sys_updated_on>
+            <sys_user/>
             <view display_value="Visualização padrão" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

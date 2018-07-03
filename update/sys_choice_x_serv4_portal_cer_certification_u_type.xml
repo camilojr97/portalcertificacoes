@@ -12,12 +12,12 @@
             <sequence>1</sequence>
             <sys_created_by>camilo.moraes</sys_created_by>
             <sys_created_on>2018-06-29 19:14:58</sys_created_on>
-            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
-            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>1b168ef8db0b9f409df332ffaa96190c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 19:14:58</sys_updated_on>
+            <sys_updated_on>2018-07-03 17:50:29</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -31,12 +31,12 @@
             <sequence>1</sequence>
             <sys_created_by>camilo.moraes</sys_created_by>
             <sys_created_on>2018-06-29 19:15:11</sys_created_on>
-            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
-            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>e5368ef8db0b9f409df332ffaa961912</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 19:15:11</sys_updated_on>
+            <sys_updated_on>2018-07-03 17:50:29</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -50,12 +50,12 @@
             <sequence>2</sequence>
             <sys_created_by>camilo.moraes</sys_created_by>
             <sys_created_on>2018-06-29 19:15:25</sys_created_on>
-            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
-            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>05468ef8db0b9f409df332ffaa96191f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 19:15:25</sys_updated_on>
+            <sys_updated_on>2018-07-03 17:50:29</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -69,12 +69,12 @@
             <sequence>2</sequence>
             <sys_created_by>camilo.moraes</sys_created_by>
             <sys_created_on>2018-06-29 19:15:38</sys_created_on>
-            <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
-            <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>9856cef8db0b9f409df332ffaa961944</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 19:15:38</sys_updated_on>
+            <sys_updated_on>2018-07-03 17:50:29</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
