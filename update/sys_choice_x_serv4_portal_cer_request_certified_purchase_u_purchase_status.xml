@@ -6,7 +6,45 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>APPROVED</label>
+            <label>Aguard. Aprovação Gestor</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-04 17:21:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bdebd316db0393809df332ffaa961902</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-04 17:22:39</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_purchase_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aguard. Aprovação Diretor</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-04 17:22:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e3c9716db0393809df332ffaa96198a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-04 17:22:42</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_purchase_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
             <language>en</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>1</sequence>
@@ -15,9 +53,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>94507cfcdb079f409df332ffaa961993</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:21</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:26:25</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -25,7 +63,7 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>APROBADO</label>
+            <label>Aprobado</label>
             <language>es</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>1</sequence>
@@ -34,9 +72,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>5501f030db479f409df332ffaa96194b</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:20</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:26:41</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -44,7 +82,7 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>APROVADO</label>
+            <label>Aprovado</label>
             <language>pb</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>1</sequence>
@@ -53,9 +91,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c24fa8fcdb079f409df332ffaa961947</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:21</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:26:08</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -63,7 +101,7 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>AGUAR. APROBACIÓN</label>
+            <label>Aguar. Aprobación</label>
             <language>es</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>2</sequence>
@@ -72,9 +110,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>57117430db479f409df332ffaa96190d</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:21</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:25:50</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -82,7 +120,7 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>AGUARD. APROVAÇÃO</label>
+            <label>Aguard. Aprovação</label>
             <language>pb</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>2</sequence>
@@ -91,9 +129,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>f06f64fcdb079f409df332ffaa9619dc</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:21</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:25:21</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -101,7 +139,7 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>WAIT. APPROVAL</label>
+            <label>Wait. Approval</label>
             <language>en</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>2</sequence>
@@ -110,9 +148,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d660bcfcdb079f409df332ffaa961927</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:21</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:25:34</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -120,7 +158,7 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>RECHAZADO</label>
+            <label>Rechazado</label>
             <language>es</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>3</sequence>
@@ -129,9 +167,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>29217830db479f409df332ffaa9619b0</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:21</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:25:02</sys_updated_on>
             <value>3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -139,7 +177,7 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>REJECTED</label>
+            <label>Rejected</label>
             <language>en</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>3</sequence>
@@ -148,9 +186,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>8d70f030db479f409df332ffaa9619c2</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:20</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:24:20</sys_updated_on>
             <value>3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -158,7 +196,7 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>REJEITADO</label>
+            <label>Rejeitado</label>
             <language>pb</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>3</sequence>
@@ -167,9 +205,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>736fe8fcdb079f409df332ffaa961920</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:20</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:24:46</sys_updated_on>
             <value>3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -177,7 +215,7 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CANCELADO</label>
+            <label>Cancelado</label>
             <language>es</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>4</sequence>
@@ -186,9 +224,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9c417830db479f409df332ffaa961929</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:20</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:23:43</sys_updated_on>
             <value>4</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -196,7 +234,7 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CANCELADO</label>
+            <label>Cancelado</label>
             <language>pb</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>4</sequence>
@@ -205,9 +243,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d67fa8fcdb079f409df332ffaa96194b</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:20</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:23:38</sys_updated_on>
             <value>4</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -215,7 +253,7 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CANCELED</label>
+            <label>Canceled</label>
             <language>en</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
             <sequence>4</sequence>
@@ -224,9 +262,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>3b70f030db479f409df332ffaa9619d3</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:58:20</sys_updated_on>
+            <sys_updated_on>2018-07-04 17:23:56</sys_updated_on>
             <value>4</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">

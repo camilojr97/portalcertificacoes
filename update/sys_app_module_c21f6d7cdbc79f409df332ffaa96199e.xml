@@ -6,9 +6,7 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter table="x_serv4_portal_cer_certification">u_audited=true^EQ<item endquery="false" field="u_audited" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter>
+        <filter/>
         <hint/>
         <homepage/>
         <image/>
@@ -31,7 +29,7 @@
         <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
         <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
         <sys_id>c21f6d7cdbc79f409df332ffaa96199e</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Todas</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
@@ -40,7 +38,7 @@
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>sys_app_module_c21f6d7cdbc79f409df332ffaa96199e</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-03 00:40:46</sys_updated_on>
+        <sys_updated_on>2018-07-04 13:28:12</sys_updated_on>
         <timeline_page/>
         <title>Todas</title>
         <uncancelable>false</uncancelable>

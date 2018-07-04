@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_block_iframe">
+    <content_block_iframe action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition><![CDATA[var user = gs.getUser();
+user.isMemberOf('Service IT');
+user.isMemberOf('Gestores');]]></condition>
+        <conditional>true</conditional>
+        <frame/>
+        <frame_name>gsft_main</frame_name>
+        <height>600</height>
+        <logged_on>true</logged_on>
+        <name>Portal Service - Certificação - Aprovação - Gestor</name>
+        <sizing>expand</sizing>
+        <sys_class_name>content_block_iframe</sys_class_name>
+        <sys_created_by>camilo.moraes</sys_created_by>
+        <sys_created_on>2018-07-04 14:31:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3d453e1edb8f53809df332ffaa9619fd</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Portal Service - Certificação - Aprovação - Gestor</sys_name>
+        <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
+        <sys_update_name>content_block_iframe_3d453e1edb8f53809df332ffaa9619fd</sys_update_name>
+        <sys_updated_by>camilo.moraes</sys_updated_by>
+        <sys_updated_on>2018-07-04 18:23:52</sys_updated_on>
+        <url>x_serv4_portal_cer_request_certified_purchase_list.do?sysparm_fixed_query=u_cooperator.u_name.manager.u_nameDYNAMIC90d1921e5f510100a9ad2572f2b477fe^&#13;
+&#13;
+&#13;
+</url>
+        <width>400</width>
+    </content_block_iframe>
+</record_update>

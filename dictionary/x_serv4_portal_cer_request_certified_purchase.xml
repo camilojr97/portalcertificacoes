@@ -19,7 +19,7 @@
             </choice>
         </element>
         <element label="Code" max_length="40" name="u_code" type="string"/>
-        <element default="javascript:getuserCooperator()" dynamic_default_value="41e8eef06fc94300b19f17164b3ee4dd" label="Cooperator" max_length="32" name="u_cooperator" read_only="true" reference="u_cooperator" type="reference" use_dynamic_default="true"/>
+        <element default="javascript:getuserCooperator()" dynamic_default_value="41e8eef06fc94300b19f17164b3ee4dd" label="Cooperator" max_length="32" name="u_cooperator" reference="u_cooperator" type="reference" use_dynamic_default="true"/>
         <element label="Description" max_length="1000" name="u_description" type="string"/>
         <element label="Exam Date" max_length="40" name="u_exam_date" type="glide_date"/>
         <element label="Local" max_length="40" name="u_local" type="string"/>
@@ -29,18 +29,20 @@
         <element label="Password" max_length="40" name="u_password" type="string"/>
         <element choice="1" label="Purchase Status" max_length="40" name="u_purchase_status" read_only="true" type="string">
             <choice>
-                <element label="APPROVED" sequence="1" value="1"/>
-                <element label="APROBADO" language="es" sequence="1" value="1"/>
-                <element label="APROVADO" language="pb" sequence="1" value="1"/>
-                <element label="AGUAR. APROBACIÓN" language="es" sequence="2" value="2"/>
-                <element label="AGUARD. APROVAÇÃO" language="pb" sequence="2" value="2"/>
-                <element label="WAIT. APPROVAL" sequence="2" value="2"/>
-                <element label="RECHAZADO" language="es" sequence="3" value="3"/>
-                <element label="REJECTED" sequence="3" value="3"/>
-                <element label="REJEITADO" language="pb" sequence="3" value="3"/>
-                <element label="CANCELADO" language="es" sequence="4" value="4"/>
-                <element label="CANCELADO" language="pb" sequence="4" value="4"/>
-                <element label="CANCELED" sequence="4" value="4"/>
+                <element label="Aguard. Aprovação Diretor" value="6"/>
+                <element label="Aguard. Aprovação Gestor" value="5"/>
+                <element label="Approved" sequence="1" value="1"/>
+                <element label="Aprobado" language="es" sequence="1" value="1"/>
+                <element label="Aprovado" language="pb" sequence="1" value="1"/>
+                <element label="Aguar. Aprobación" language="es" sequence="2" value="2"/>
+                <element label="Aguard. Aprovação" language="pb" sequence="2" value="2"/>
+                <element label="Wait. Approval" sequence="2" value="2"/>
+                <element label="Rechazado" language="es" sequence="3" value="3"/>
+                <element label="Rejected" sequence="3" value="3"/>
+                <element label="Rejeitado" language="pb" sequence="3" value="3"/>
+                <element label="Cancelado" language="es" sequence="4" value="4"/>
+                <element label="Cancelado" language="pb" sequence="4" value="4"/>
+                <element label="Canceled" sequence="4" value="4"/>
             </choice>
         </element>
         <element label="Reason for Rejection" max_length="1000" name="u_reason_for_rejection" type="string"/>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_script" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="sys_script" element="NULL" name="sys_script" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6176a532d700310066f70eca5e61039f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2016-07-01 17:54:50</sys_created_on>
+            <sys_id>5e6e64666f586600b19f17164b3ee49f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2016-07-01 17:54:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="sys_script" element="NULL" name="sys_script" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6176a532d700310066f70eca5e61039f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2016-07-01 17:54:50</sys_created_on>
+            <sys_id>9e6e64666f586600b19f17164b3ee49f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2016-07-01 17:54:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>when</element>
+            <list_id display_value="sys_script" element="NULL" name="sys_script" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6176a532d700310066f70eca5e61039f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2016-07-01 17:54:50</sys_created_on>
+            <sys_id>de6e64666f586600b19f17164b3ee49f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2016-07-01 17:54:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>collection</element>
+            <list_id display_value="sys_script" element="NULL" name="sys_script" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6176a532d700310066f70eca5e61039f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2016-07-01 17:54:50</sys_created_on>
+            <sys_id>126e64666f586600b19f17164b3ee4a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2016-07-01 17:54:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_scope</element>
+            <list_id display_value="sys_script" element="NULL" name="sys_script" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6176a532d700310066f70eca5e61039f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2016-07-01 17:54:50</sys_created_on>
+            <sys_id>526e64666f586600b19f17164b3ee4a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2016-07-01 17:54:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order</element>
+            <list_id display_value="sys_script" element="NULL" name="sys_script" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6176a532d700310066f70eca5e61039f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2016-07-01 17:54:50</sys_created_on>
+            <sys_id>926e64666f586600b19f17164b3ee4a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2016-07-01 17:54:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="sys_script" element="NULL" name="sys_script" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6176a532d700310066f70eca5e61039f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>peterson.ferreira</sys_created_by>
+            <sys_created_on>2016-07-01 17:54:50</sys_created_on>
+            <sys_id>d26e64666f586600b19f17164b3ee4a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>peterson.ferreira</sys_updated_by>
+            <sys_updated_on>2016-07-01 17:54:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_script</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-04 12:52:32</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d99e56dadb4f53809df332ffaa961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-04 12:52:32</sys_updated_on>
+            <sys_user display_value="Camilo Junior Martins de Moraes">7265ee260fcf0f404ec87cca42050eba</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

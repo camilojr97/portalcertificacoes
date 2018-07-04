@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="c90a2b444a3623120064ed56263be407" table="sys_ui_action">
+<record_update sys_domain="global" table="sys_ui_action">
     <sys_ui_action action="INSERT_OR_UPDATE">
         <action_name/>
         <active>true</active>
@@ -38,10 +38,10 @@
         <sys_created_by>camilo.moraes</sys_created_by>
         <sys_created_on>2018-07-02 17:10:35</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
-        <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>2336c535db0b13809df332ffaa961906</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Cancelar</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
@@ -50,7 +50,7 @@
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>sys_ui_action_2336c535db0b13809df332ffaa961906</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-02 18:02:33</sys_updated_on>
+        <sys_updated_on>2018-07-04 12:51:50</sys_updated_on>
         <table>x_serv4_portal_cer_request_certified_purchase</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

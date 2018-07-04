@@ -7,7 +7,7 @@
         <detail_page/>
         <iframe/>
         <image/>
-        <logged_on>false</logged_on>
+        <logged_on>true</logged_on>
         <menu_section display_value="&lt;div style=&quot;width:200px; float:left&quot;&gt;Certificações&lt;/span&gt;">7f7c0682db0753809df332ffaa9619ca</menu_section>
         <name>Solicitar Compra</name>
         <order>300</order>
@@ -17,7 +17,7 @@
         <sys_created_on>2018-07-03 19:00:08</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>5209ae06db4753809df332ffaa96198a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Solicitar Compra</sys_name>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
@@ -25,7 +25,7 @@
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>menu_item_5209ae06db4753809df332ffaa96198a</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-03 19:00:08</sys_updated_on>
+        <sys_updated_on>2018-07-04 12:33:25</sys_updated_on>
         <tag/>
         <target>internal</target>
         <type>url</type>
