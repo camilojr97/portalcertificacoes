@@ -46,7 +46,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>da87b834db479f409df332ffaa96195b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Change Status for Wait. Approval</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
@@ -55,8 +55,8 @@
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>sys_script_da87b834db479f409df332ffaa96195b</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-04 12:52:47</sys_updated_on>
-        <template>u_purchase_status=2^EQ</template>
+        <sys_updated_on>2018-07-05 17:29:11</sys_updated_on>
+        <template>u_purchase_status=5^EQ</template>
         <when>before</when>
     </sys_script>
 </record_update>

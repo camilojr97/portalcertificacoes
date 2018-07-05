@@ -18,7 +18,7 @@ user.isMemberOf('Gestores');]]></condition>
         <sys_created_on>2018-07-04 14:31:42</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>3d453e1edb8f53809df332ffaa9619fd</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Portal Service - Certificação - Aprovação - Gestor</sys_name>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
@@ -26,11 +26,8 @@ user.isMemberOf('Gestores');]]></condition>
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>content_block_iframe_3d453e1edb8f53809df332ffaa9619fd</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-04 18:23:52</sys_updated_on>
-        <url>x_serv4_portal_cer_request_certified_purchase_list.do?sysparm_fixed_query=u_cooperator.u_name.manager.u_nameDYNAMIC90d1921e5f510100a9ad2572f2b477fe^&#13;
-&#13;
-&#13;
-</url>
+        <sys_updated_on>2018-07-05 17:26:13</sys_updated_on>
+        <url>x_serv4_portal_cer_request_certified_purchase_list.do?sysparm_fixed_query=u_cooperator.u_name.manager.u_nameDYNAMIC90d1921e5f510100a9ad2572f2b477fe^u_purchase_status=5</url>
         <width>400</width>
     </content_block_iframe>
 </record_update>
