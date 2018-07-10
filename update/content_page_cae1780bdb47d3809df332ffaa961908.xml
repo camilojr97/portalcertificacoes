@@ -1,324 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="content_page" unload_date="2018-07-06 15:55:23">
+<record_update node_type="content_page" unload_date="2018-07-10 19:15:31">
     <sys_portal action="delete_multiple" query="page=cae1780bdb47d3809df332ffaa961908">
         <related_items_node>
-            <sys_portal action="INSERT_OR_UPDATE">
-                <dropzone>dropzone10</dropzone>
-                <offset>1</offset>
-                <page display_value="Certificação - Relatórios RH">cae1780bdb47d3809df332ffaa961908</page>
-                <summary/>
-                <sys_created_by>camilo.moraes</sys_created_by>
-                <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                <sys_id>15f81543dbc7d3809df332ffaa96195b</sys_id>
-                <sys_mod_count>0</sys_mod_count>
-                <sys_updated_by>camilo.moraes</sys_updated_by>
-                <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                <related_items_node>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>help_text_window</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">15f81543dbc7d3809df332ffaa96195b</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>11f81543dbc7d3809df332ffaa96195c</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>report_widget_description</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>report_type</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">15f81543dbc7d3809df332ffaa96195b</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>15f81543dbc7d3809df332ffaa96195c</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>bar</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>can_subscribe</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">15f81543dbc7d3809df332ffaa96195b</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>19f81543dbc7d3809df332ffaa96195c</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>true</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">15f81543dbc7d3809df332ffaa96195b</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>1df81543dbc7d3809df332ffaa96195b</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>com.glide.ui.portal.RenderReport</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">15f81543dbc7d3809df332ffaa96195b</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>1df81543dbc7d3809df332ffaa96195c</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>Relatório RH - Solicitações de Compra Certificados</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">15f81543dbc7d3809df332ffaa96195b</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>91f81543dbc7d3809df332ffaa96195d</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>cae1780bdb47d3809df332ffaa961908</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">15f81543dbc7d3809df332ffaa96195b</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>95f81543dbc7d3809df332ffaa96195b</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>b1689103dbc7d3809df332ffaa96198e</value>
-                    </sys_portal_preferences>
-                </related_items_node>
-            </sys_portal>
-            <sys_portal action="INSERT_OR_UPDATE">
-                <dropzone>dropzone20</dropzone>
-                <offset>0</offset>
-                <page display_value="Certificação - Relatórios RH">cae1780bdb47d3809df332ffaa961908</page>
-                <summary/>
-                <sys_created_by>camilo.moraes</sys_created_by>
-                <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                <sys_id>1df81543dbc7d3809df332ffaa96194a</sys_id>
-                <sys_mod_count>0</sys_mod_count>
-                <sys_updated_by>camilo.moraes</sys_updated_by>
-                <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                <related_items_node>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">1df81543dbc7d3809df332ffaa96194a</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>15f81543dbc7d3809df332ffaa96194b</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>com.glide.cms.RenderBlock</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>type</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">1df81543dbc7d3809df332ffaa96194a</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>19f81543dbc7d3809df332ffaa96194b</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>content_block_menu</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">1df81543dbc7d3809df332ffaa96194a</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>1df81543dbc7d3809df332ffaa96194b</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>Portal Service - Menu - RH Certificações - RH View</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">1df81543dbc7d3809df332ffaa96194a</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>91f81543dbc7d3809df332ffaa96194c</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>cae1780bdb47d3809df332ffaa961908</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">1df81543dbc7d3809df332ffaa96194a</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>9df81543dbc7d3809df332ffaa96194a</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>7b79d0bedbcb93809df332ffaa9619d9</value>
-                    </sys_portal_preferences>
-                </related_items_node>
-            </sys_portal>
             <sys_portal action="INSERT_OR_UPDATE">
                 <dropzone>dropzone0</dropzone>
                 <offset>0</offset>
                 <page display_value="Certificação - Relatórios RH">cae1780bdb47d3809df332ffaa961908</page>
                 <summary/>
                 <sys_created_by>camilo.moraes</sys_created_by>
-                <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                <sys_id>45f81543dbc7d3809df332ffaa961944</sys_id>
+                <sys_created_on>2018-07-10 17:07:38</sys_created_on>
+                <sys_id>2c821e90db9353009df332ffaa9619a0</sys_id>
                 <sys_mod_count>0</sys_mod_count>
                 <sys_updated_by>camilo.moraes</sys_updated_by>
-                <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
+                <sys_updated_on>2018-07-10 17:07:38</sys_updated_on>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">45f81543dbc7d3809df332ffaa961944</portal_section>
+                        <portal_section display_value="Created 10-07-2018 14:07:38">2c821e90db9353009df332ffaa9619a0</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>4df81543dbc7d3809df332ffaa961944</sys_id>
+                        <sys_created_on>2018-07-10 17:07:38</sys_created_on>
+                        <sys_id>24821e90db9353009df332ffaa9619a1</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
+                        <sys_updated_on>2018-07-10 17:07:38</sys_updated_on>
                         <value>com.glide.cms.RenderBlock</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>type</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">45f81543dbc7d3809df332ffaa961944</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>51f81543dbc7d3809df332ffaa961945</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>content_block_header</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">45f81543dbc7d3809df332ffaa961944</portal_section>
+                        <portal_section display_value="Created 10-07-2018 14:07:38">2c821e90db9353009df332ffaa9619a0</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>55f81543dbc7d3809df332ffaa961945</sys_id>
+                        <sys_created_on>2018-07-10 17:07:38</sys_created_on>
+                        <sys_id>28821e90db9353009df332ffaa9619a1</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
+                        <sys_updated_on>2018-07-10 17:07:38</sys_updated_on>
                         <value>Portal Service - Header</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">45f81543dbc7d3809df332ffaa961944</portal_section>
+                        <name>current_page</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:38">2c821e90db9353009df332ffaa9619a0</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>c5f81543dbc7d3809df332ffaa961944</sys_id>
+                        <sys_created_on>2018-07-10 17:07:38</sys_created_on>
+                        <sys_id>a0821e90db9353009df332ffaa9619a2</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
+                        <sys_updated_on>2018-07-10 17:07:38</sys_updated_on>
+                        <value>cae1780bdb47d3809df332ffaa961908</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:38">2c821e90db9353009df332ffaa9619a0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:38</sys_created_on>
+                        <sys_id>ac821e90db9353009df332ffaa9619a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:38</sys_updated_on>
                         <value>3f74a5736ff71100bfc57a87ad3ee48c</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">45f81543dbc7d3809df332ffaa961944</portal_section>
+                        <name>type</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:38">2c821e90db9353009df332ffaa9619a0</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>d9f81543dbc7d3809df332ffaa961945</sys_id>
+                        <sys_created_on>2018-07-10 17:07:38</sys_created_on>
+                        <sys_id>ac821e90db9353009df332ffaa9619a1</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>cae1780bdb47d3809df332ffaa961908</value>
-                    </sys_portal_preferences>
-                </related_items_node>
-            </sys_portal>
-            <sys_portal action="INSERT_OR_UPDATE">
-                <dropzone>dropzone10</dropzone>
-                <offset>0</offset>
-                <page display_value="Certificação - Relatórios RH">cae1780bdb47d3809df332ffaa961908</page>
-                <summary/>
-                <sys_created_by>camilo.moraes</sys_created_by>
-                <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                <sys_id>91f81543dbc7d3809df332ffaa961952</sys_id>
-                <sys_mod_count>0</sys_mod_count>
-                <sys_updated_by>camilo.moraes</sys_updated_by>
-                <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                <related_items_node>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">91f81543dbc7d3809df332ffaa961952</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>11f81543dbc7d3809df332ffaa961954</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>cae1780bdb47d3809df332ffaa961908</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">91f81543dbc7d3809df332ffaa961952</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>15f81543dbc7d3809df332ffaa961952</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>2721b8c7db47d3809df332ffaa9619b9</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>report_type</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">91f81543dbc7d3809df332ffaa961952</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>91f81543dbc7d3809df332ffaa961953</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>bar</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>can_subscribe</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">91f81543dbc7d3809df332ffaa961952</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>95f81543dbc7d3809df332ffaa961953</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>true</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">91f81543dbc7d3809df332ffaa961952</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>99f81543dbc7d3809df332ffaa961952</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>com.glide.ui.portal.RenderReport</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">91f81543dbc7d3809df332ffaa961952</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>99f81543dbc7d3809df332ffaa961953</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>Relatório RH Certificações - Categorias</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>help_text_window</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:47">91f81543dbc7d3809df332ffaa961952</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>9df81543dbc7d3809df332ffaa961952</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>report_widget_description</value>
+                        <sys_updated_on>2018-07-10 17:07:38</sys_updated_on>
+                        <value>content_block_header</value>
                     </sys_portal_preferences>
                 </related_items_node>
             </sys_portal>
@@ -328,99 +77,300 @@
                 <page display_value="Certificação - Relatórios RH">cae1780bdb47d3809df332ffaa961908</page>
                 <summary/>
                 <sys_created_by>camilo.moraes</sys_created_by>
-                <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                <sys_id>99f81543dbc7d3809df332ffaa961965</sys_id>
+                <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                <sys_id>38821e90db9353009df332ffaa9619d6</sys_id>
                 <sys_mod_count>0</sys_mod_count>
                 <sys_updated_by>camilo.moraes</sys_updated_by>
-                <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
+                <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961965</portal_section>
-                        <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:47</sys_created_on>
-                        <sys_id>1df81543dbc7d3809df332ffaa961965</sys_id>
-                        <sys_mod_count>0</sys_mod_count>
-                        <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:47</sys_updated_on>
-                        <value>46e7b84fdb47d3809df332ffaa9619fa</value>
-                    </sys_portal_preferences>
-                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961965</portal_section>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">38821e90db9353009df332ffaa9619d6</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>1df81543dbc7d3809df332ffaa961967</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>70821e90db9353009df332ffaa9619e5</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
                         <value>cae1780bdb47d3809df332ffaa961908</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>help_text_window</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961965</portal_section>
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">38821e90db9353009df332ffaa9619d6</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>91f81543dbc7d3809df332ffaa961966</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>b8821e90db9353009df332ffaa9619d6</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
-                        <value>report_widget_description</value>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>46e7b84fdb47d3809df332ffaa9619fa</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961965</portal_section>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">38821e90db9353009df332ffaa9619d6</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>91f81543dbc7d3809df332ffaa961967</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>f0821e90db9353009df332ffaa9619e4</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
                         <value>pie</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961965</portal_section>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">38821e90db9353009df332ffaa9619d6</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>95f81543dbc7d3809df332ffaa961966</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>f4821e90db9353009df332ffaa9619e3</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
                         <value>com.glide.ui.portal.RenderReport</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961965</portal_section>
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">38821e90db9353009df332ffaa9619d6</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>95f81543dbc7d3809df332ffaa961967</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>f4821e90db9353009df332ffaa9619e4</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
-                        <value>Relatório RH Certificações - Certificados por Colaborador</value>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">38821e90db9353009df332ffaa9619d6</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>f8821e90db9353009df332ffaa9619e3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">38821e90db9353009df332ffaa9619d6</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>f8821e90db9353009df332ffaa9619e4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>Status das Provas no Ano</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_publish</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961965</portal_section>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">38821e90db9353009df332ffaa9619d6</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>99f81543dbc7d3809df332ffaa961966</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>fc821e90db9353009df332ffaa9619e3</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>0</offset>
+                <page display_value="Certificação - Relatórios RH">cae1780bdb47d3809df332ffaa961908</page>
+                <summary/>
+                <sys_created_by>camilo.moraes</sys_created_by>
+                <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                <sys_id>60821e90db9353009df332ffaa9619b0</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>camilo.moraes</sys_updated_by>
+                <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>68821e90db9353009df332ffaa9619b2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>2721b8c7db47d3809df332ffaa9619b9</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e0821e90db9353009df332ffaa9619b0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e0821e90db9353009df332ffaa9619b1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e0821e90db9353009df332ffaa9619b2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>Distribuição por Categorias (Geral)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e0821e90db9353009df332ffaa9619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e0821e90db9353009df332ffaa9619b4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
                         <value>true</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
-                        <name>can_subscribe</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961965</portal_section>
+                        <name>renderer</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>9df81543dbc7d3809df332ffaa961966</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e4821e90db9353009df332ffaa9619b0</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e4821e90db9353009df332ffaa9619b1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
                         <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e4821e90db9353009df332ffaa9619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e4821e90db9353009df332ffaa9619b4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>cae1780bdb47d3809df332ffaa961908</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e8821e90db9353009df332ffaa9619b0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e8821e90db9353009df332ffaa9619b1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e8821e90db9353009df332ffaa9619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_size</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>ec821e90db9353009df332ffaa9619b0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>10pt</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>ec821e90db9353009df332ffaa9619b1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>ec821e90db9353009df332ffaa9619b2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>widget_height</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">60821e90db9353009df332ffaa9619b0</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>ec821e90db9353009df332ffaa9619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value/>
                     </sys_portal_preferences>
                 </related_items_node>
             </sys_portal>
@@ -430,66 +380,226 @@
                 <page display_value="Certificação - Relatórios RH">cae1780bdb47d3809df332ffaa961908</page>
                 <summary/>
                 <sys_created_by>camilo.moraes</sys_created_by>
-                <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                <sys_id>99f81543dbc7d3809df332ffaa961971</sys_id>
+                <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                <sys_id>b4821e90db9353009df332ffaa9619fd</sys_id>
                 <sys_mod_count>0</sys_mod_count>
                 <sys_updated_by>camilo.moraes</sys_updated_by>
-                <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
+                <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">b4821e90db9353009df332ffaa9619fd</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>38821e90db9353009df332ffaa9619fd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>785465736ff71100bfc57a87ad3ee4e0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">b4821e90db9353009df332ffaa9619fd</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>38821e90db9353009df332ffaa9619fe</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">b4821e90db9353009df332ffaa9619fd</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>3c821e90db9353009df332ffaa9619fe</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>cae1780bdb47d3809df332ffaa961908</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">b4821e90db9353009df332ffaa9619fd</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>b0821e90db9353009df332ffaa9619fe</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>Portal Service - Footer</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">b4821e90db9353009df332ffaa9619fd</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>bc821e90db9353009df332ffaa9619fd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>1</offset>
+                <page display_value="Certificação - Relatórios RH">cae1780bdb47d3809df332ffaa961908</page>
+                <summary/>
+                <sys_created_by>camilo.moraes</sys_created_by>
+                <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                <sys_id>e8821e90db9353009df332ffaa9619bd</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>camilo.moraes</sys_updated_by>
+                <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961971</portal_section>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">e8821e90db9353009df332ffaa9619bd</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>11f81543dbc7d3809df332ffaa961973</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>20821e90db9353009df332ffaa9619cc</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
                         <value>cae1780bdb47d3809df332ffaa961908</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961971</portal_section>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">e8821e90db9353009df332ffaa9619bd</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>1df81543dbc7d3809df332ffaa961971</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>6c821e90db9353009df332ffaa9619bd</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
-                        <value>785465736ff71100bfc57a87ad3ee4e0</value>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>b1689103dbc7d3809df332ffaa96198e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">e8821e90db9353009df332ffaa9619bd</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>a0821e90db9353009df332ffaa9619cb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">e8821e90db9353009df332ffaa9619bd</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>a4821e90db9353009df332ffaa9619cb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">e8821e90db9353009df332ffaa9619bd</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>a8821e90db9353009df332ffaa9619ca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">e8821e90db9353009df332ffaa9619bd</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>a8821e90db9353009df332ffaa9619cb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>Solicitações de Compra de Certificações no Mes</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961971</portal_section>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">e8821e90db9353009df332ffaa9619bd</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>91f81543dbc7d3809df332ffaa961972</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>ac821e90db9353009df332ffaa9619ca</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone20</dropzone>
+                <offset>0</offset>
+                <page display_value="Certificação - Relatórios RH">cae1780bdb47d3809df332ffaa961908</page>
+                <summary/>
+                <sys_created_by>camilo.moraes</sys_created_by>
+                <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                <sys_id>ec821e90db9353009df332ffaa9619a7</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>camilo.moraes</sys_updated_by>
+                <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">ec821e90db9353009df332ffaa9619a7</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:38</sys_created_on>
+                        <sys_id>60821e90db9353009df332ffaa9619a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:38</sys_updated_on>
+                        <value>7b79d0bedbcb93809df332ffaa9619d9</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">ec821e90db9353009df332ffaa9619a7</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>64821e90db9353009df332ffaa9619a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>cae1780bdb47d3809df332ffaa961908</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">ec821e90db9353009df332ffaa9619a7</portal_section>
+                        <sys_created_by>camilo.moraes</sys_created_by>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e4821e90db9353009df332ffaa9619a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>camilo.moraes</sys_updated_by>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
                         <value>com.glide.cms.RenderBlock</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961971</portal_section>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">ec821e90db9353009df332ffaa9619a7</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>95f81543dbc7d3809df332ffaa961972</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>e8821e90db9353009df332ffaa9619a8</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
-                        <value>content_block_static</value>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>content_block_menu</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:43:48">99f81543dbc7d3809df332ffaa961971</portal_section>
+                        <portal_section display_value="Created 10-07-2018 14:07:39">ec821e90db9353009df332ffaa9619a7</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
-                        <sys_created_on>2018-07-06 15:43:48</sys_created_on>
-                        <sys_id>99f81543dbc7d3809df332ffaa961972</sys_id>
+                        <sys_created_on>2018-07-10 17:07:39</sys_created_on>
+                        <sys_id>ec821e90db9353009df332ffaa9619a8</sys_id>
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>camilo.moraes</sys_updated_by>
-                        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
-                        <value>Portal Service - Footer</value>
+                        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
+                        <value>Portal Service - Menu - RH Certificações - RH View</value>
                     </sys_portal_preferences>
                 </related_items_node>
             </sys_portal>
@@ -516,7 +626,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>cae1780bdb47d3809df332ffaa961908</sys_id>
-        <sys_mod_count>71</sys_mod_count>
+        <sys_mod_count>121</sys_mod_count>
         <sys_name>Certificação - Relatórios RH</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
@@ -525,7 +635,7 @@
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>content_page_cae1780bdb47d3809df332ffaa961908</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-06 15:43:48</sys_updated_on>
+        <sys_updated_on>2018-07-10 17:07:39</sys_updated_on>
         <title>Certificação - Relatórios RH</title>
         <url_suffix>certificacaoRelatoriosrh</url_suffix>
         <user/>
@@ -533,4 +643,17 @@
         <workflow_state>published</workflow_state>
     </content_page>
     <sys_translated_text action="delete_multiple" query="documentkey=cae1780bdb47d3809df332ffaa961908"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>cae1780bdb47d3809df332ffaa961908</documentkey>
+        <fieldname>description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-06 17:12:33</sys_created_on>
+        <sys_id>954d6947db0bd3809df332ffaa961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-06 17:12:33</sys_updated_on>
+        <tablename>content_page</tablename>
+        <value/>
+    </sys_translated_text>
 </record_update>

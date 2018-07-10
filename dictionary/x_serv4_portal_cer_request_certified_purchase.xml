@@ -18,9 +18,10 @@
                 <element label="RFP" language="pb" sequence="4" value="4"/>
             </choice>
         </element>
+        <element label="Certifier" max_length="1024" name="u_certifier" type="url"/>
         <element label="Code" max_length="40" name="u_code" type="string"/>
         <element default="javascript:getuserCooperator()" dynamic_default_value="41e8eef06fc94300b19f17164b3ee4dd" label="Cooperator" max_length="32" name="u_cooperator" reference="u_cooperator" type="reference" use_dynamic_default="true"/>
-        <element label="Description" max_length="1000" name="u_description" type="string"/>
+        <element hint="Nome/Descrição da Certificação" label="Description" max_length="1000" name="u_description" type="string"/>
         <element label="Exam Date" max_length="40" name="u_exam_date" type="glide_date"/>
         <element label="Local" max_length="40" name="u_local" type="string"/>
         <element choice="1" label="Partner" max_length="32" name="u_partner" reference="x_serv4_portal_cer_partner" type="reference">
@@ -59,10 +60,10 @@
         </element>
         <element choice="1" label="Type" max_length="40" name="u_type" type="string">
             <choice>
-                <element label="Technical" sequence="1" value="1"/>
-                <element label="Técnica" language="pb" sequence="1" value="1"/>
-                <element label="Comercial" language="pb" sequence="2" value="2"/>
-                <element label="Sales" sequence="2" value="2"/>
+                <element label="TECNICA" language="es" sequence="1" value="1"/>
+                <element label="Técnica" sequence="1" value="1"/>
+                <element label="COMERCIAL" language="es" sequence="2" value="2"/>
+                <element label="Comercial" sequence="2" value="2"/>
             </choice>
         </element>
         <element label="User" max_length="40" name="u_user" type="string"/>

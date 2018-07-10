@@ -6,7 +6,7 @@
             <element>u_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Technical</label>
+            <label>TECHNICAL</label>
             <language>en</language>
             <name>x_serv4_portal_cer_certification</name>
             <sequence>1</sequence>
@@ -15,9 +15,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>1b168ef8db0b9f409df332ffaa96190c</sys_id>
-            <sys_mod_count>5</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:50:29</sys_updated_on>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-06 17:27:22</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -25,7 +25,26 @@
             <element>u_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Técnica</label>
+            <label>TECNICA</label>
+            <language>es</language>
+            <name>x_serv4_portal_cer_certification</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-06 16:27:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04e2694fdbc7d3809df332ffaa96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-06 17:27:28</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TECNICA</label>
             <language>pb</language>
             <name>x_serv4_portal_cer_certification</name>
             <sequence>1</sequence>
@@ -34,9 +53,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>e5368ef8db0b9f409df332ffaa961912</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:50:29</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-06 17:27:31</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -44,7 +63,7 @@
             <element>u_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Comercial</label>
+            <label>COMERCIAL</label>
             <language>pb</language>
             <name>x_serv4_portal_cer_certification</name>
             <sequence>2</sequence>
@@ -53,9 +72,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>05468ef8db0b9f409df332ffaa96191f</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:50:29</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-06 17:27:35</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -63,7 +82,26 @@
             <element>u_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Sales</label>
+            <label>COMERCIAL</label>
+            <language>es</language>
+            <name>x_serv4_portal_cer_certification</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-06 16:27:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c13e94fdbc7d3809df332ffaa9619f5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-06 17:27:39</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SALES</label>
             <language>en</language>
             <name>x_serv4_portal_cer_certification</name>
             <sequence>2</sequence>
@@ -72,9 +110,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9856cef8db0b9f409df332ffaa961944</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:50:29</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-06 17:27:50</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
