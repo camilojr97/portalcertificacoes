@@ -221,7 +221,7 @@
             <sys_updated_on>2018-07-06 17:42:25</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <view display_value="Visualização padrão" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

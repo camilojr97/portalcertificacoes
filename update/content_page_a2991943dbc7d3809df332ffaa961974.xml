@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="content_page" unload_date="2018-07-10 19:15:30">
+<record_update node_type="content_page" unload_date="2018-07-11 20:17:47">
     <sys_portal action="delete_multiple" query="page=a2991943dbc7d3809df332ffaa961974">
         <related_items_node>
             <sys_portal action="INSERT_OR_UPDATE">
@@ -16,7 +16,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">303ad183dbc7d3809df332ffaa96199c</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">303ad183dbc7d3809df332ffaa96199c</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>303ad183dbc7d3809df332ffaa96199d</sys_id>
@@ -27,7 +27,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">303ad183dbc7d3809df332ffaa96199c</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">303ad183dbc7d3809df332ffaa96199c</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>383ad183dbc7d3809df332ffaa96199c</sys_id>
@@ -38,7 +38,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">303ad183dbc7d3809df332ffaa96199c</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">303ad183dbc7d3809df332ffaa96199c</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>3c3ad183dbc7d3809df332ffaa96199c</sys_id>
@@ -49,7 +49,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">303ad183dbc7d3809df332ffaa96199c</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">303ad183dbc7d3809df332ffaa96199c</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>b03ad183dbc7d3809df332ffaa96199c</sys_id>
@@ -60,7 +60,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">303ad183dbc7d3809df332ffaa96199c</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">303ad183dbc7d3809df332ffaa96199c</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>b43ad183dbc7d3809df332ffaa96199d</sys_id>
@@ -85,7 +85,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:14">743ad183dbc7d3809df332ffaa9619d1</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:14">743ad183dbc7d3809df332ffaa9619d1</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:14</sys_created_on>
                         <sys_id>703ad183dbc7d3809df332ffaa9619d2</sys_id>
@@ -96,7 +96,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:14">743ad183dbc7d3809df332ffaa9619d1</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:14">743ad183dbc7d3809df332ffaa9619d1</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:14</sys_created_on>
                         <sys_id>7c3ad183dbc7d3809df332ffaa9619d1</sys_id>
@@ -107,7 +107,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:14">743ad183dbc7d3809df332ffaa9619d1</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:14">743ad183dbc7d3809df332ffaa9619d1</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:14</sys_created_on>
                         <sys_id>f43ad183dbc7d3809df332ffaa9619d1</sys_id>
@@ -118,7 +118,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:14">743ad183dbc7d3809df332ffaa9619d1</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:14">743ad183dbc7d3809df332ffaa9619d1</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:14</sys_created_on>
                         <sys_id>f43ad183dbc7d3809df332ffaa9619d2</sys_id>
@@ -129,7 +129,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:14">743ad183dbc7d3809df332ffaa9619d1</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:14">743ad183dbc7d3809df332ffaa9619d1</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:14</sys_created_on>
                         <sys_id>f83ad183dbc7d3809df332ffaa9619d2</sys_id>
@@ -154,7 +154,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">783ad183dbc7d3809df332ffaa9619bb</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">783ad183dbc7d3809df332ffaa9619bb</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>703ad183dbc7d3809df332ffaa9619bc</sys_id>
@@ -165,7 +165,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">783ad183dbc7d3809df332ffaa9619bb</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">783ad183dbc7d3809df332ffaa9619bb</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>743ad183dbc7d3809df332ffaa9619bc</sys_id>
@@ -176,7 +176,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">783ad183dbc7d3809df332ffaa9619bb</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">783ad183dbc7d3809df332ffaa9619bb</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>f83ad183dbc7d3809df332ffaa9619bb</sys_id>
@@ -187,7 +187,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">783ad183dbc7d3809df332ffaa9619bb</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">783ad183dbc7d3809df332ffaa9619bb</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>f83ad183dbc7d3809df332ffaa9619bc</sys_id>
@@ -198,7 +198,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">783ad183dbc7d3809df332ffaa9619bb</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">783ad183dbc7d3809df332ffaa9619bb</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>fc3ad183dbc7d3809df332ffaa9619bc</sys_id>
@@ -223,7 +223,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">7c3ad183dbc7d3809df332ffaa9619a9</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">7c3ad183dbc7d3809df332ffaa9619a9</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>743ad183dbc7d3809df332ffaa9619aa</sys_id>
@@ -234,7 +234,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">7c3ad183dbc7d3809df332ffaa9619a9</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">7c3ad183dbc7d3809df332ffaa9619a9</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>783ad183dbc7d3809df332ffaa9619aa</sys_id>
@@ -245,7 +245,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">7c3ad183dbc7d3809df332ffaa9619a9</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">7c3ad183dbc7d3809df332ffaa9619a9</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>f03ad183dbc7d3809df332ffaa9619ab</sys_id>
@@ -256,7 +256,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">7c3ad183dbc7d3809df332ffaa9619a9</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">7c3ad183dbc7d3809df332ffaa9619a9</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>fc3ad183dbc7d3809df332ffaa9619a9</sys_id>
@@ -267,7 +267,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">7c3ad183dbc7d3809df332ffaa9619a9</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">7c3ad183dbc7d3809df332ffaa9619a9</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>fc3ad183dbc7d3809df332ffaa9619aa</sys_id>
@@ -292,7 +292,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">f03ad183dbc7d3809df332ffaa9619b2</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">f03ad183dbc7d3809df332ffaa9619b2</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>743ad183dbc7d3809df332ffaa9619b2</sys_id>
@@ -303,7 +303,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">f03ad183dbc7d3809df332ffaa9619b2</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">f03ad183dbc7d3809df332ffaa9619b2</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>743ad183dbc7d3809df332ffaa9619b3</sys_id>
@@ -314,7 +314,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">f03ad183dbc7d3809df332ffaa9619b2</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">f03ad183dbc7d3809df332ffaa9619b2</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>783ad183dbc7d3809df332ffaa9619b3</sys_id>
@@ -325,7 +325,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">f03ad183dbc7d3809df332ffaa9619b2</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">f03ad183dbc7d3809df332ffaa9619b2</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>f83ad183dbc7d3809df332ffaa9619b2</sys_id>
@@ -336,7 +336,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">f03ad183dbc7d3809df332ffaa9619b2</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">f03ad183dbc7d3809df332ffaa9619b2</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>fc3ad183dbc7d3809df332ffaa9619b2</sys_id>
@@ -361,7 +361,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">f43ad183dbc7d3809df332ffaa9619a2</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">f43ad183dbc7d3809df332ffaa9619a2</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>783ad183dbc7d3809df332ffaa9619a2</sys_id>
@@ -372,7 +372,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">f43ad183dbc7d3809df332ffaa9619a2</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">f43ad183dbc7d3809df332ffaa9619a2</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>783ad183dbc7d3809df332ffaa9619a3</sys_id>
@@ -383,7 +383,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">f43ad183dbc7d3809df332ffaa9619a2</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">f43ad183dbc7d3809df332ffaa9619a2</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>7c3ad183dbc7d3809df332ffaa9619a3</sys_id>
@@ -394,7 +394,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">f43ad183dbc7d3809df332ffaa9619a2</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">f43ad183dbc7d3809df332ffaa9619a2</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>f03ad183dbc7d3809df332ffaa9619a3</sys_id>
@@ -405,7 +405,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:13">f43ad183dbc7d3809df332ffaa9619a2</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:13">f43ad183dbc7d3809df332ffaa9619a2</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:13</sys_created_on>
                         <sys_id>fc3ad183dbc7d3809df332ffaa9619a2</sys_id>
@@ -430,7 +430,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:14">fc3ad183dbc7d3809df332ffaa9619c5</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:14">fc3ad183dbc7d3809df332ffaa9619c5</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:14</sys_created_on>
                         <sys_id>703ad183dbc7d3809df332ffaa9619c6</sys_id>
@@ -441,7 +441,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:14">fc3ad183dbc7d3809df332ffaa9619c5</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:14">fc3ad183dbc7d3809df332ffaa9619c5</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:14</sys_created_on>
                         <sys_id>703ad183dbc7d3809df332ffaa9619c7</sys_id>
@@ -452,7 +452,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:14">fc3ad183dbc7d3809df332ffaa9619c5</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:14">fc3ad183dbc7d3809df332ffaa9619c5</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:14</sys_created_on>
                         <sys_id>743ad183dbc7d3809df332ffaa9619c7</sys_id>
@@ -463,7 +463,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:14">fc3ad183dbc7d3809df332ffaa9619c5</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:14">fc3ad183dbc7d3809df332ffaa9619c5</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:14</sys_created_on>
                         <sys_id>f43ad183dbc7d3809df332ffaa9619c6</sys_id>
@@ -474,7 +474,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 06-07-2018 12:49:14">fc3ad183dbc7d3809df332ffaa9619c5</portal_section>
+                        <portal_section display_value="Criado 06-07-2018 12:49:14">fc3ad183dbc7d3809df332ffaa9619c5</portal_section>
                         <sys_created_by>camilo.moraes</sys_created_by>
                         <sys_created_on>2018-07-06 15:49:14</sys_created_on>
                         <sys_id>f83ad183dbc7d3809df332ffaa9619c6</sys_id>

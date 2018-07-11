@@ -19,11 +19,11 @@
             </choice>
         </element>
         <element label="Certifier" max_length="1024" name="u_certifier" type="url"/>
-        <element label="Code" max_length="40" name="u_code" type="string"/>
+        <element hint="Certification Code" label="Code" max_length="40" name="u_code" type="string"/>
         <element default="javascript:getuserCooperator()" dynamic_default_value="41e8eef06fc94300b19f17164b3ee4dd" label="Cooperator" max_length="32" name="u_cooperator" reference="u_cooperator" type="reference" use_dynamic_default="true"/>
         <element hint="Nome/Descrição da Certificação" label="Description" max_length="1000" name="u_description" type="string"/>
         <element label="Exam Date" max_length="40" name="u_exam_date" type="glide_date"/>
-        <element label="Local" max_length="40" name="u_local" type="string"/>
+        <element hint="Lugar de la Certificación" label="Place" max_length="40" name="u_local" type="string"/>
         <element choice="1" label="Partner" max_length="32" name="u_partner" reference="x_serv4_portal_cer_partner" type="reference">
             <choice/>
         </element>
@@ -66,7 +66,7 @@
                 <element label="Comercial" sequence="2" value="2"/>
             </choice>
         </element>
-        <element label="User" max_length="40" name="u_user" type="string"/>
+        <element label="User Name" max_length="40" name="u_user" type="string"/>
         <element label="Value" max_length="20" name="u_value" type="currency"/>
         <index name="index">
             <element name="u_cooperator"/>
