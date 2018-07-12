@@ -29,7 +29,7 @@
         <message_html><![CDATA[<p>Certifica&ccedil;&atilde;o da solicita&ccedil;&atilde;o ${number} Aprovada</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>Email Purchase Status Approved- Certification</name>
+        <name>Email Status Approved- Certification</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
@@ -49,8 +49,8 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>08efba16dbcf53809df332ffaa9619d8</sys_id>
-        <sys_mod_count>9</sys_mod_count>
-        <sys_name>Email Purchase Status Approved- Certification</sys_name>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Email Status Approved- Certification</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
@@ -58,7 +58,7 @@
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>sysevent_email_action_08efba16dbcf53809df332ffaa9619d8</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-04 15:39:57</sys_updated_on>
+        <sys_updated_on>2018-07-12 15:11:05</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

@@ -4,152 +4,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c171e0adb0753809df332ffaa961943</list_id>
+            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">8cff7ca8dbcf1f403b7c7a30ba961964</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 17:41:15</sys_created_on>
-            <sys_id>f0171e0adb0753809df332ffaa961944</sys_id>
+            <sys_created_on>2018-06-28 19:29:40</sys_created_on>
+            <sys_id>04ff7ca8dbcf1f403b7c7a30ba961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:41:15</sys_updated_on>
+            <sys_updated_on>2018-06-28 19:29:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_category</element>
-            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c171e0adb0753809df332ffaa961943</list_id>
+            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">8cff7ca8dbcf1f403b7c7a30ba961964</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 17:41:15</sys_created_on>
-            <sys_id>74171e0adb0753809df332ffaa961944</sys_id>
+            <sys_created_on>2018-06-28 19:29:40</sys_created_on>
+            <sys_id>84ff7ca8dbcf1f403b7c7a30ba961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:41:15</sys_updated_on>
+            <sys_updated_on>2018-06-28 19:29:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_code</element>
-            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c171e0adb0753809df332ffaa961943</list_id>
+            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">8cff7ca8dbcf1f403b7c7a30ba961964</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 17:41:15</sys_created_on>
-            <sys_id>f4171e0adb0753809df332ffaa961944</sys_id>
+            <sys_created_on>2018-06-28 19:29:40</sys_created_on>
+            <sys_id>08ff7ca8dbcf1f403b7c7a30ba961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:41:15</sys_updated_on>
+            <sys_updated_on>2018-06-28 19:29:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_cooperator</element>
-            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c171e0adb0753809df332ffaa961943</list_id>
+            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">8cff7ca8dbcf1f403b7c7a30ba961964</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 17:41:15</sys_created_on>
-            <sys_id>78171e0adb0753809df332ffaa961944</sys_id>
+            <sys_created_on>2018-06-28 19:29:40</sys_created_on>
+            <sys_id>88ff7ca8dbcf1f403b7c7a30ba961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:41:15</sys_updated_on>
+            <sys_updated_on>2018-06-28 19:29:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_description</element>
-            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c171e0adb0753809df332ffaa961943</list_id>
+            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">8cff7ca8dbcf1f403b7c7a30ba961964</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 17:41:15</sys_created_on>
-            <sys_id>f8171e0adb0753809df332ffaa961944</sys_id>
+            <sys_created_on>2018-06-28 19:29:40</sys_created_on>
+            <sys_id>0cff7ca8dbcf1f403b7c7a30ba961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:41:15</sys_updated_on>
+            <sys_updated_on>2018-06-28 19:29:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_exam_date</element>
-            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c171e0adb0753809df332ffaa961943</list_id>
+            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">8cff7ca8dbcf1f403b7c7a30ba961964</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 17:41:15</sys_created_on>
-            <sys_id>7c171e0adb0753809df332ffaa961944</sys_id>
+            <sys_created_on>2018-06-28 19:29:40</sys_created_on>
+            <sys_id>8cff7ca8dbcf1f403b7c7a30ba961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:41:15</sys_updated_on>
+            <sys_updated_on>2018-06-28 19:29:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_local</element>
-            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c171e0adb0753809df332ffaa961943</list_id>
+            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">8cff7ca8dbcf1f403b7c7a30ba961964</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 17:41:15</sys_created_on>
-            <sys_id>fc171e0adb0753809df332ffaa961944</sys_id>
+            <sys_created_on>2018-06-28 19:29:40</sys_created_on>
+            <sys_id>00ff7ca8dbcf1f403b7c7a30ba961966</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:41:15</sys_updated_on>
+            <sys_updated_on>2018-06-28 19:29:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_partner</element>
-            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c171e0adb0753809df332ffaa961943</list_id>
+            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">8cff7ca8dbcf1f403b7c7a30ba961964</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 17:41:15</sys_created_on>
-            <sys_id>70171e0adb0753809df332ffaa961945</sys_id>
+            <sys_created_on>2018-06-28 19:29:40</sys_created_on>
+            <sys_id>80ff7ca8dbcf1f403b7c7a30ba961966</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:41:15</sys_updated_on>
+            <sys_updated_on>2018-06-28 19:29:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_password</element>
-            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c171e0adb0753809df332ffaa961943</list_id>
+            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">8cff7ca8dbcf1f403b7c7a30ba961964</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 17:41:15</sys_created_on>
-            <sys_id>f0171e0adb0753809df332ffaa961945</sys_id>
+            <sys_created_on>2018-06-28 19:29:40</sys_created_on>
+            <sys_id>04ff7ca8dbcf1f403b7c7a30ba961966</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:41:15</sys_updated_on>
+            <sys_updated_on>2018-06-28 19:29:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_purchase_status</element>
-            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c171e0adb0753809df332ffaa961943</list_id>
+            <list_id display_value="x_serv4_portal_cer_request_certified_purchase" element="NULL" name="x_serv4_portal_cer_request_certified_purchase" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">8cff7ca8dbcf1f403b7c7a30ba961964</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 17:41:15</sys_created_on>
-            <sys_id>74171e0adb0753809df332ffaa961945</sys_id>
+            <sys_created_on>2018-06-28 19:29:40</sys_created_on>
+            <sys_id>84ff7ca8dbcf1f403b7c7a30ba961966</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 17:41:15</sys_updated_on>
+            <sys_updated_on>2018-06-28 19:29:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
