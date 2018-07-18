@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_cost_type" table="x_serv4_portal_cer_request_certified_purchase" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pagado</label>
+            <language>es</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>1</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-18 17:03:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d5e53b2db1f97009df332ffaa961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:03:46</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pago</label>
+            <language>pb</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>1</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-18 17:00:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98addb72db1f97009df332ffaa961900</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:01:39</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Paid</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>1</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-18 17:02:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe0e9f72db1f97009df332ffaa96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:02:28</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Free</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>2</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-18 17:04:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b6e93b2db1f97009df332ffaa961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:04:07</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gratis</label>
+            <language>es</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>2</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-18 17:04:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>538e93b2db1f97009df332ffaa961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:04:41</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gratuito</label>
+            <language>pb</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>2</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-18 17:01:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54bdd772db1f97009df332ffaa961911</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:01:41</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vale</label>
+            <language>es</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>3</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-18 17:05:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4de57b2db1f97009df332ffaa961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:05:52</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Voucher</label>
+            <language>pb</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>3</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-18 17:01:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86bd1f72db1f97009df332ffaa961942</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:01:44</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_cost_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Voucher</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence>3</sequence>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-18 17:05:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99ced3b2db1f97009df332ffaa961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:05:38</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_cost_type</element>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-18 17:00:55</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c0bddb72db1f97009df332ffaa9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_cost_type</sys_name>
+            <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
+            <sys_update_name>sys_choice_x_serv4_portal_cer_request_certified_purchase_u_cost_type</sys_update_name>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-18 17:00:55</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

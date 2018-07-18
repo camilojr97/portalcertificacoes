@@ -26,7 +26,13 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Certifica&ccedil;&atilde;o da solicita&ccedil;&atilde;o ${number} Aprovada</p>]]></message_html>
+        <message_html><![CDATA[<p>Certifica&ccedil;&atilde;o da solicita&ccedil;&atilde;o ${number} Aprovada</p>
+<p>Cooperator: ${u_cooperator}</p>
+<p>Type: ${u_type}</p>
+<p>Partner: ${u_partner}</p>
+<p>Code: ${u_code}</p>
+<p>Category: ${u_category}</p>
+<p>Description: ${u_description}</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Email Status Approved- Certification</name>
@@ -38,9 +44,21 @@
         <recipient_users>49de42886f7642001969ba6d6b3ee45f</recipient_users>
         <reply_to/>
         <send_self>true</send_self>
-        <sms_alternate><![CDATA[Solicitação ${number} Aprovada]]></sms_alternate>
+        <sms_alternate><![CDATA[Certificação da solicitação ${number} Aprovada
+
+Cooperator: ${u_cooperator}
+
+Type: ${u_type}
+
+Partner: ${u_partner}
+
+Code: ${u_code}
+
+Category: ${u_category}
+
+Description: ${u_description}]]></sms_alternate>
         <style/>
-        <subject>Solicitação ${number} Aprovada</subject>
+        <subject>Solicitação ${number}</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>camilo.moraes</sys_created_by>
@@ -49,7 +67,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>08efba16dbcf53809df332ffaa9619d8</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Email Status Approved- Certification</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
@@ -58,7 +76,7 @@
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>sysevent_email_action_08efba16dbcf53809df332ffaa9619d8</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-12 15:11:05</sys_updated_on>
+        <sys_updated_on>2018-07-18 17:51:39</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

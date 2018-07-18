@@ -3,108 +3,108 @@
     <sys_ui_list parent="" relationship="" sys_domain="c90a2b444a3623120064ed56263be407" table="cmdb_ci_printer" version="2" view="RPT1c791bc1d7200100c11180f29e610328">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>manufacturer</element>
-            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="1ac8c68edbc353809df332ffaa961915">56c8c68edbc353809df332ffaa961916</list_id>
+            <element>name</element>
+            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">86b3d3190a0a0b020023f4177cec0929</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 16:38:50</sys_created_on>
-            <sys_id>d2c8c68edbc353809df332ffaa961917</sys_id>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-11-10 14:00:11</sys_created_on>
+            <sys_id>86b3d3260a0a0b02008dacf9e53af1ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 16:38:50</sys_updated_on>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-11-10 14:00:11</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>asset.model</element>
-            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="1ac8c68edbc353809df332ffaa961915">56c8c68edbc353809df332ffaa961916</list_id>
+            <element>ip_address</element>
+            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">86b3d3190a0a0b020023f4177cec0929</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 16:38:50</sys_created_on>
-            <sys_id>5ec8c68edbc353809df332ffaa961917</sys_id>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-11-10 14:00:11</sys_created_on>
+            <sys_id>86b3d3320a0a0b0200da8ea2b066d678</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 16:38:50</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>asset_tag</element>
-            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="1ac8c68edbc353809df332ffaa961915">56c8c68edbc353809df332ffaa961916</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>2</position>
-            <sum>false</sum>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 16:38:50</sys_created_on>
-            <sys_id>dec8c68edbc353809df332ffaa961917</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 16:38:50</sys_updated_on>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-11-10 14:00:11</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>serial_number</element>
-            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="1ac8c68edbc353809df332ffaa961915">56c8c68edbc353809df332ffaa961916</list_id>
+            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">86b3d3190a0a0b020023f4177cec0929</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-11-10 14:00:11</sys_created_on>
+            <sys_id>86b3d3340a0a0b0200c04b2a46019ba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-11-10 14:00:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manufacturer</element>
+            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">86b3d3190a0a0b020023f4177cec0929</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 16:38:50</sys_created_on>
-            <sys_id>52c8c68edbc353809df332ffaa961918</sys_id>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-11-10 14:00:11</sys_created_on>
+            <sys_id>86b3d3360a0a0b0200e26ad006512ce7</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 16:38:50</sys_updated_on>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-11-10 14:00:11</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>location</element>
-            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="1ac8c68edbc353809df332ffaa961915">56c8c68edbc353809df332ffaa961916</list_id>
+            <element>model_id</element>
+            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">86b3d3190a0a0b020023f4177cec0929</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 16:38:50</sys_created_on>
-            <sys_id>d2c8c68edbc353809df332ffaa961918</sys_id>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-11-10 14:00:11</sys_created_on>
+            <sys_id>86b3d3380a0a0b02007d8ffb7f7d2397</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 16:38:50</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>purchase_date</element>
-            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="1ac8c68edbc353809df332ffaa961915">56c8c68edbc353809df332ffaa961916</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>5</position>
-            <sum>false</sum>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 16:38:50</sys_created_on>
-            <sys_id>56c8c68edbc353809df332ffaa961918</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 16:38:50</sys_updated_on>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-11-10 14:00:11</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>print_type</element>
-            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="c90a2b444a3623120064ed56263be407" view="1ac8c68edbc353809df332ffaa961915">56c8c68edbc353809df332ffaa961916</list_id>
+            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">86b3d3190a0a0b020023f4177cec0929</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-11-10 14:00:11</sys_created_on>
+            <sys_id>86b3d33a0a0a0b02001efd74c453bd0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-11-10 14:00:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>colors</element>
+            <list_id display_value="cmdb_ci_printer" element="NULL" name="cmdb_ci_printer" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">86b3d3190a0a0b020023f4177cec0929</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-03 16:38:50</sys_created_on>
-            <sys_id>d6c8c68edbc353809df332ffaa961918</sys_id>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2008-11-10 14:00:11</sys_created_on>
+            <sys_id>86b3d3480a0a0b020002b7616d37cfcc</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-03 16:38:50</sys_updated_on>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2008-11-10 14:00:11</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
