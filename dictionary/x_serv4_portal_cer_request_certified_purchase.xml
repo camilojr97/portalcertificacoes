@@ -18,6 +18,7 @@
                 <element label="RFP" language="pb" sequence="4" value="4"/>
             </choice>
         </element>
+        <element label="Certificate" max_length="32" name="u_certificate" reference="u_registration_certificates" type="reference"/>
         <element hint="Endereço Completo do Site." label="Certificadora" max_length="1024" name="u_certifier" type="url"/>
         <element hint="Certification Code" label="Code" max_length="40" name="u_code" type="string"/>
         <element default="javascript:getuserCooperator()" dynamic_default_value="41e8eef06fc94300b19f17164b3ee4dd" label="Cooperator" max_length="32" name="u_cooperator" reference="u_cooperator" type="reference" use_dynamic_default="true"/>
@@ -53,8 +54,21 @@
             </choice>
         </element>
         <element hint="Lugar de la Certificación" label="Place" max_length="40" name="u_local" type="string"/>
-        <element choice="1" label="Partner" max_length="32" name="u_partner" reference="x_serv4_portal_cer_partner" type="reference">
-            <choice/>
+        <element choice="1" label="Partner" max_length="32" name="u_partner" type="choice">
+            <choice>
+                <element label="Dell" value="Dell"/>
+                <element label="EMC" value="EMC"/>
+                <element label="IBM" value="IBM"/>
+                <element label="Microsoft" value="Microsoft"/>
+                <element label="Oracle" value="Oracle"/>
+                <element label="RedHat" value="RedHat"/>
+                <element label="RSA" value="RSA"/>
+                <element label="ServiceNow" value="ServiceNow"/>
+                <element label="SUSE" value="SUSE"/>
+                <element label="VEEAM" value="VEEAM"/>
+                <element label="VMware" value="VMware"/>
+                <element label="ZIMBRA" value="ZIMBRA"/>
+            </choice>
         </element>
         <element label="Password" max_length="40" name="u_password" type="string"/>
         <element choice="1" label="Purchase Status" max_length="40" name="u_purchase_status" read_only="true" type="string">
@@ -89,21 +103,24 @@
         </element>
         <element choice="1" label="Type" max_length="40" name="u_type" type="string">
             <choice>
-                <element label="TECNICA" language="es" sequence="1" value="1"/>
-                <element label="Técnica" sequence="1" value="1"/>
-                <element label="COMERCIAL" language="es" sequence="2" value="2"/>
-                <element label="Comercial" sequence="2" value="2"/>
+                <element label="Technical" sequence="1" value="Technical"/>
+                <element label="Tecnica" language="es" sequence="1" value="Technical"/>
+                <element label="Comercial" language="es" sequence="2" value="Sale"/>
+                <element label="Sale" sequence="2" value="Sale"/>
             </choice>
         </element>
         <element label="User Name" max_length="40" name="u_user" type="string"/>
         <element label="Value" max_length="20" name="u_value" type="currency"/>
         <index name="index">
-            <element name="u_cooperator"/>
+            <element name="u_certificate"/>
         </index>
         <index name="index2">
-            <element name="u_cost_center"/>
+            <element name="u_cooperator"/>
         </index>
         <index name="index3">
+            <element name="u_cost_center"/>
+        </index>
+        <index name="index4">
             <element name="u_partner"/>
         </index>
     </element>

@@ -2,6 +2,7 @@
 <database>
     <element label="Certification" max_length="40" name="x_serv4_portal_cer_certification" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Attachment" max_length="40" name="u_attach" type="boolean"/>
         <element hint="Certificación Revisada por RH" label="Audited" max_length="40" name="u_audited" type="boolean"/>
         <element choice="1" hint="Necessidade da Certificação" label="Category" max_length="40" name="u_category" type="string">
             <choice>
@@ -25,15 +26,30 @@
         <element label="Date of Expiration" max_length="40" name="u_date_expiration" type="glide_date"/>
         <element hint="Nome/Descrição da Certificação" label="Description" max_length="1000" name="u_description" type="string"/>
         <element label="Purchase ID" max_length="40" name="u_id_compra" read_only="true" type="string"/>
-        <element hint="Parceiro Responsavel" label="Partner" max_length="32" name="u_partner" reference="x_serv4_portal_cer_partner" type="reference"/>
+        <element choice="1" hint="Parceiro Responsavel" label="Partner" max_length="32" name="u_partner" type="choice">
+            <choice>
+                <element label="Dell" value="Dell"/>
+                <element label="EMC" value="EMC"/>
+                <element label="IBM" value="IBM"/>
+                <element label="Microsoft" value="Microsoft"/>
+                <element label="Oracle" value="Oracle"/>
+                <element label="RedHat" value="RedHat"/>
+                <element label="RSA" value="RSA"/>
+                <element label="ServiceNow" value="ServiceNow"/>
+                <element label="SUSE" value="SUSE"/>
+                <element label="VEEAM" value="VEEAM"/>
+                <element label="VMware" value="VMware"/>
+                <element label="ZIMBRA" value="ZIMBRA"/>
+            </choice>
+        </element>
         <element choice="1" hint="Tipo de certificación" label="Type" max_length="40" name="u_type" type="string">
             <choice>
-                <element label="TECHNICAL" sequence="1" value="1"/>
-                <element label="TECNICA" language="es" sequence="1" value="1"/>
-                <element label="TECNICA" language="pb" sequence="1" value="1"/>
-                <element label="COMERCIAL" language="pb" sequence="2" value="2"/>
-                <element label="COMERCIAL" language="es" sequence="2" value="2"/>
-                <element label="SALES" sequence="2" value="2"/>
+                <element label="Technical" sequence="1" value="Technical"/>
+                <element label="TECNICA" language="es" sequence="1" value="Technical"/>
+                <element label="TECNICA" language="pb" sequence="1" value="Technical"/>
+                <element label="Comercial" language="pb" sequence="2" value="Sales"/>
+                <element label="Comercial" language="es" sequence="2" value="Sales"/>
+                <element label="Sales" sequence="2" value="Sales"/>
             </choice>
         </element>
         <index name="index">

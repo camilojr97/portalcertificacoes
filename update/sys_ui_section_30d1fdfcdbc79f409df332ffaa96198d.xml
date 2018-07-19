@@ -5,13 +5,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>c6097134db0b9f409df332ffaa96197a</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>0f76b49fdb93d7003b7c7a30ba961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>number</element>
             <position>1</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>4a097134db0b9f409df332ffaa96197a</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>8f76b49fdb93d7003b7c7a30ba961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>u_id_compra</element>
             <position>2</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>ca097134db0b9f409df332ffaa96197a</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>0376b49fdb93d7003b7c7a30ba96195a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>u_cooperator</element>
             <position>3</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>4e097134db0b9f409df332ffaa96197a</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>8376b49fdb93d7003b7c7a30ba96195a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>u_type</element>
             <position>4</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>ce097134db0b9f409df332ffaa96197a</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>0776b49fdb93d7003b7c7a30ba96195a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>u_partner</element>
             <position>5</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>42097134db0b9f409df332ffaa96197b</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>8776b49fdb93d7003b7c7a30ba96195a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>u_code</element>
             <position>6</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>c2097134db0b9f409df332ffaa96197b</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>0b76b49fdb93d7003b7c7a30ba96195a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>.split</element>
             <position>7</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>46097134db0b9f409df332ffaa96197b</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>8b76b49fdb93d7003b7c7a30ba96195a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>u_category</element>
             <position>8</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>c6097134db0b9f409df332ffaa96197b</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>0f76b49fdb93d7003b7c7a30ba96195a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>u_date_certification</element>
             <position>9</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>4a097134db0b9f409df332ffaa96197b</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>8f76b49fdb93d7003b7c7a30ba96195a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>u_date_expiration</element>
             <position>10</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>ca097134db0b9f409df332ffaa96197b</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>0376b49fdb93d7003b7c7a30ba96195b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,41 +159,55 @@
             <element>u_audited</element>
             <position>11</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>4e097134db0b9f409df332ffaa96197b</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>8376b49fdb93d7003b7c7a30ba96195b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_attach</element>
+            <position>12</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>0776b49fdb93d7003b7c7a30ba96195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>ce097134db0b9f409df332ffaa96197b</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>8776b49fdb93d7003b7c7a30ba96195b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_description</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 18:17:36</sys_created_on>
-            <sys_id>42097134db0b9f409df332ffaa96197c</sys_id>
+            <sys_created_on>2018-07-19 18:07:21</sys_created_on>
+            <sys_id>0b76b49fdb93d7003b7c7a30ba96195b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="c90a2b444a3623120064ed56263be407" view="Default view">30d1fdfcdbc79f409df332ffaa96198d</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-06-29 18:17:36</sys_updated_on>
+            <sys_updated_on>2018-07-19 18:07:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

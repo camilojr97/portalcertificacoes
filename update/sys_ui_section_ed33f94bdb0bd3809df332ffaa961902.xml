@@ -5,13 +5,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>50bda5aedb9b57003b7c7a30ba96198d</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>d455c8dfdb13d7003b7c7a30ba96190c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_exam_date</element>
             <position>1</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>d0bda5aedb9b57003b7c7a30ba96198d</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>5855c8dfdb13d7003b7c7a30ba96190c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>u_local</element>
             <position>2</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>54bda5aedb9b57003b7c7a30ba96198d</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>d855c8dfdb13d7003b7c7a30ba96190c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,125 +47,125 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>d4bda5aedb9b57003b7c7a30ba96198d</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>5c55c8dfdb13d7003b7c7a30ba96190c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_code</element>
+            <element>u_description</element>
             <position>4</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>58bda5aedb9b57003b7c7a30ba96198d</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>dc55c8dfdb13d7003b7c7a30ba96190c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_description</element>
-            <position>5</position>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>d8bda5aedb9b57003b7c7a30ba96198d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>5cbda5aedb9b57003b7c7a30ba96198d</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>5055c8dfdb13d7003b7c7a30ba96190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_user</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>dcbda5aedb9b57003b7c7a30ba96198d</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>d055c8dfdb13d7003b7c7a30ba96190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_password</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>50bda5aedb9b57003b7c7a30ba96198e</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>5455c8dfdb13d7003b7c7a30ba96190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_certifier</element>
-            <position>9</position>
+            <position>8</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>d0bda5aedb9b57003b7c7a30ba96198e</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>d455c8dfdb13d7003b7c7a30ba96190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>10</position>
+            <position>9</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>54bda5aedb9b57003b7c7a30ba96198e</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>5855c8dfdb13d7003b7c7a30ba96190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cost_type</element>
+            <position>10</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>d855c8dfdb13d7003b7c7a30ba96190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_value</element>
             <position>11</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>d4bda5aedb9b57003b7c7a30ba96198e</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>5c55c8dfdb13d7003b7c7a30ba96190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -173,13 +173,13 @@
             <element>u_status</element>
             <position>12</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>58bda5aedb9b57003b7c7a30ba96198e</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>dc55c8dfdb13d7003b7c7a30ba96190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -187,13 +187,13 @@
             <element>.end_split</element>
             <position>13</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>d8bda5aedb9b57003b7c7a30ba96198e</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>5055c8dfdb13d7003b7c7a30ba96190e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -201,13 +201,13 @@
             <element>u_reason_for_rejection</element>
             <position>14</position>
             <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-07-17 14:13:07</sys_created_on>
-            <sys_id>5cbda5aedb9b57003b7c7a30ba96198e</sys_id>
+            <sys_created_on>2018-07-19 14:32:32</sys_created_on>
+            <sys_id>d055c8dfdb13d7003b7c7a30ba96190e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações da Solicitação" display_value="Informações da Solicitação" name="x_serv4_portal_cer_request_certified_purchase" sys_domain="global" view="Default view">ed33f94bdb0bd3809df332ffaa961902</sys_ui_section>
             <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-17 14:13:07</sys_updated_on>
+            <sys_updated_on>2018-07-19 14:32:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

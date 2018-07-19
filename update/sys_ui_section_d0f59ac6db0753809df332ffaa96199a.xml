@@ -169,6 +169,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_attach</element>
+            <position>12</position>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 18:02:52</sys_created_on>
+            <sys_id>9575385fdb93d7003b7c7a30ba961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_serv4_portal_cer_certification" sys_domain="global" view="Default view">d0f59ac6db0753809df332ffaa96199a</sys_ui_section>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 18:02:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

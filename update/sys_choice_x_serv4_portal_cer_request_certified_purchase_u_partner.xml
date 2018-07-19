@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_partner" table="x_serv4_portal_cer_request_certified_purchase" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dell</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 14:55:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c88a84d3db53d7003b7c7a30ba961995</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 14:55:48</sys_updated_on>
+            <value>Dell</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EMC</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 14:55:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c7a04d3db53d7003b7c7a30ba9619d4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 14:55:19</sys_updated_on>
+            <value>EMC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IBM</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 14:54:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>486a04d3db53d7003b7c7a30ba9619d3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 14:55:00</sys_updated_on>
+            <value>IBM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Microsoft</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 15:02:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>040c0417db53d7003b7c7a30ba9619af</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 15:02:23</sys_updated_on>
+            <value>Microsoft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oracle</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 14:58:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98aa84d3db53d7003b7c7a30ba961921</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 14:59:03</sys_updated_on>
+            <value>Oracle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RedHat</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 15:01:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb8b4017db53d7003b7c7a30ba96190c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 15:01:15</sys_updated_on>
+            <value>RedHat</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RSA</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 15:01:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcfb4017db53d7003b7c7a30ba96190d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 15:01:49</sys_updated_on>
+            <value>RSA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ServiceNow</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 15:03:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a42c4017db53d7003b7c7a30ba961911</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 15:03:04</sys_updated_on>
+            <value>ServiceNow</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SUSE</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 15:03:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe4cc417db53d7003b7c7a30ba96194b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 15:03:21</sys_updated_on>
+            <value>SUSE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VEEAM</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 14:59:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e5bccd3db53d7003b7c7a30ba961903</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 14:59:53</sys_updated_on>
+            <value>VEEAM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VMware</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 15:04:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>47acc817db53d7003b7c7a30ba96190b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 15:04:49</sys_updated_on>
+            <value>VMware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_partner</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ZIMBRA</label>
+            <language>en</language>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sequence/>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 15:01:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cebc017db53d7003b7c7a30ba96197e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 15:01:36</sys_updated_on>
+            <value>ZIMBRA</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_partner</element>
+            <name>x_serv4_portal_cer_request_certified_purchase</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>camilo.moraes</sys_created_by>
+            <sys_created_on>2018-07-19 14:54:57</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>907a44d3db53d7003b7c7a30ba961940</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_partner</sys_name>
+            <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
+            <sys_update_name>sys_choice_x_serv4_portal_cer_request_certified_purchase_u_partner</sys_update_name>
+            <sys_updated_by>camilo.moraes</sys_updated_by>
+            <sys_updated_on>2018-07-19 14:54:57</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

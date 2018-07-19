@@ -54,7 +54,7 @@
         <sys_created_on>2018-06-28 18:49:42</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>a2c6b864dbcf1f403b7c7a30ba961912</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Number</sys_name>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
@@ -62,7 +62,7 @@
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>sys_dictionary_x_serv4_portal_cer_request_certified_purchase_number</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-02 16:33:41</sys_updated_on>
+        <sys_updated_on>2018-07-19 18:16:43</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
