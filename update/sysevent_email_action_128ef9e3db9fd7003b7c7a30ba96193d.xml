@@ -8,8 +8,8 @@
         <affected_field_on_event/>
         <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
         <collection>x_serv4_portal_cer_certification</collection>
-        <condition table="x_serv4_portal_cer_certification">u_attach=true^ORu_attachCHANGESTOtrue^EQ<item endquery="false" field="u_attach" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item endquery="false" field="u_attach" goto="false" newquery="false" operator="CHANGESTO" or="true" value="true"/>
+        <condition table="x_serv4_portal_cer_certification">u_attach=false^ORu_attachCHANGESTOfalse^EQ<item endquery="false" field="u_attach" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="false" field="u_attach" goto="false" newquery="false" operator="CHANGESTO" or="true" value="false"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <content_type>text/html</content_type>
@@ -21,51 +21,51 @@
         <force_delivery>false</force_delivery>
         <from/>
         <generation_type>engine</generation_type>
-        <importance/>
-        <include_attachments>true</include_attachments>
+        <importance>high</importance>
+        <include_attachments>false</include_attachments>
         <item>event.parm1</item>
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Cooperator: ${u_cooperator}</p>
-<p>Number: ${number}</p>
-<p>Category: ${u_category}</p>
-<p>Partner: ${u_partner}</p>
-<p>Code: ${u_code}</p>
-<p>Description: ${u_description}</p>
-<p>Para maiores detalhes, acesse: ${URI}</p>]]></message_html>
+        <message_html><![CDATA[<p>Certifica&ccedil;&atilde;o ${number} precisa de Anexo para checagem do RH. Abaixo segue algumas informa&ccedil;&otilde;es:</p>
+<p>ID: ${number}</p>
+<p>ID Compra: ${u_id_compra}</p>
+<p>C&oacute;digo: ${u_code}</p>
+<p>Categoria: ${u_category}</p>
+<p>Parceiro: ${u_partner}</p>
+<p>Descri&ccedil;&atilde;o: ${u_description}</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>Attach</name>
+        <name>Notificação para anexo</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields/>
+        <recipient_fields>u_cooperator.u_name.email</recipient_fields>
         <recipient_groups/>
-        <recipient_users>49de42886f7642001969ba6d6b3ee45f</recipient_users>
+        <recipient_users/>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject>Certificação ${number} precisa ser checada</subject>
+        <subject>Certificação ${number} precisa de Anexo</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>camilo.moraes</sys_created_by>
-        <sys_created_on>2018-07-19 19:33:39</sys_created_on>
+        <sys_created_on>2018-07-20 18:01:44</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>0bf90d9bdbd3d7003b7c7a30ba961957</sys_id>
-        <sys_mod_count>10</sys_mod_count>
-        <sys_name>Attach</sys_name>
+        <sys_id>128ef9e3db9fd7003b7c7a30ba96193d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Notificação para anexo</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
-        <sys_update_name>sysevent_email_action_0bf90d9bdbd3d7003b7c7a30ba961957</sys_update_name>
+        <sys_update_name>sysevent_email_action_128ef9e3db9fd7003b7c7a30ba96193d</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-20 18:15:20</sys_updated_on>
+        <sys_updated_on>2018-07-20 18:06:58</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

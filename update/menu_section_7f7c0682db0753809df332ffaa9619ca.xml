@@ -18,14 +18,14 @@
         <name>&lt;div style="width:200px; float:left"&gt;Certificações&lt;/span&gt;</name>
         <omit_body>false</omit_body>
         <order>2</order>
-        <roles/>
+        <roles>snc_internal</roles>
         <second_level_text/>
         <sys_class_name>menu_section</sys_class_name>
         <sys_created_by>camilo.moraes</sys_created_by>
         <sys_created_on>2018-07-03 16:57:05</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>7f7c0682db0753809df332ffaa9619ca</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>&lt;div style="width:200px; float:left"&gt;Certificações&lt;/span&gt;</sys_name>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>menu_section_7f7c0682db0753809df332ffaa9619ca</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-03 17:06:03</sys_updated_on>
+        <sys_updated_on>2018-07-20 12:40:11</sys_updated_on>
         <tag/>
         <target>internal</target>
         <type>url</type>
