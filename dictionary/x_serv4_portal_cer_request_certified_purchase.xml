@@ -76,9 +76,6 @@
                 <element label="Approved" sequence="1" value="1"/>
                 <element label="Aprobado" language="es" sequence="1" value="1"/>
                 <element label="Aprovado" language="pb" sequence="1" value="1"/>
-                <element label="Aguar. Aprobación" language="es" sequence="2" value="2"/>
-                <element label="Aguard. Aprovação" language="pb" sequence="2" value="2"/>
-                <element label="Wait. Approval" sequence="2" value="2"/>
                 <element label="Rechazado" language="es" sequence="3" value="3"/>
                 <element label="Rejected" sequence="3" value="3"/>
                 <element label="Rejeitado" language="pb" sequence="3" value="3"/>

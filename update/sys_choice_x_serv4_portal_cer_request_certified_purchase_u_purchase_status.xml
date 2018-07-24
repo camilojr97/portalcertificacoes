@@ -63,63 +63,6 @@
             <element>u_purchase_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Aguar. Aprobación</label>
-            <language>es</language>
-            <name>x_serv4_portal_cer_request_certified_purchase</name>
-            <sequence>2</sequence>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 13:03:23</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>57117430db479f409df332ffaa96190d</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-04 17:25:50</sys_updated_on>
-            <value>2</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_purchase_status</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Aguard. Aprovação</label>
-            <language>pb</language>
-            <name>x_serv4_portal_cer_request_certified_purchase</name>
-            <sequence>2</sequence>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 12:55:50</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>f06f64fcdb079f409df332ffaa9619dc</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-04 17:25:21</sys_updated_on>
-            <value>2</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_purchase_status</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Wait. Approval</label>
-            <language>en</language>
-            <name>x_serv4_portal_cer_request_certified_purchase</name>
-            <sequence>2</sequence>
-            <sys_created_by>camilo.moraes</sys_created_by>
-            <sys_created_on>2018-06-29 13:00:19</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>d660bcfcdb079f409df332ffaa961927</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-04 17:25:34</sys_updated_on>
-            <value>2</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_purchase_status</element>
-            <hint/>
-            <inactive>false</inactive>
             <label>Rechazado</label>
             <language>es</language>
             <name>x_serv4_portal_cer_request_certified_purchase</name>
