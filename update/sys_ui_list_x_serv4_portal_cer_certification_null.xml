@@ -178,7 +178,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-07-06 17:30:05</sys_updated_on>
             <sys_user display_value="System Administrator">e40189f06fb70100a18b2d232e3ee4c2</sys_user>
-            <view display_value="Visualização padrão" name="NULL">Default view</view>
+            <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

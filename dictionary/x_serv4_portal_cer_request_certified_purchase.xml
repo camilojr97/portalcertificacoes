@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Request Certified Purchase" max_length="40" name="x_serv4_portal_cer_request_certified_purchase" type="collection">
+    <element label="Solicitud de compra de certificación" max_length="40" name="x_serv4_portal_cer_request_certified_purchase" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element choice="1" label="Category" max_length="40" name="u_category" type="string">
             <choice>

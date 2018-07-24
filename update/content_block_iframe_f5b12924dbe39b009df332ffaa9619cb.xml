@@ -10,23 +10,23 @@ user.isMemberOf('Recursos Humanos');]]></condition>
         <frame_name>gsft_main</frame_name>
         <height>600</height>
         <logged_on>true</logged_on>
-        <name>Portal Service - RH Certificação - Listar - RH</name>
+        <name>Portal Service - RH Certificação - Auditoria RH</name>
         <sizing>expand</sizing>
         <sys_class_name>content_block_iframe</sys_class_name>
         <sys_created_by>camilo.moraes</sys_created_by>
-        <sys_created_on>2018-07-03 16:20:49</sys_created_on>
+        <sys_created_on>2018-07-23 18:28:38</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>7424c6cadbc353809df332ffaa9619df</sys_id>
-        <sys_mod_count>12</sys_mod_count>
-        <sys_name>Portal Service - RH Certificação - Listar - RH</sys_name>
+        <sys_id>f5b12924dbe39b009df332ffaa9619cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Service - RH Certificação - Auditoria RH</sys_name>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
-        <sys_update_name>content_block_iframe_7424c6cadbc353809df332ffaa9619df</sys_update_name>
+        <sys_update_name>content_block_iframe_f5b12924dbe39b009df332ffaa9619cb</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-23 17:55:56</sys_updated_on>
-        <url>x_serv4_portal_cer_certification_list.do?sysparm_userpref_module=c21f6d7cdbc79f409df332ffaa96199e</url>
+        <sys_updated_on>2018-07-23 18:28:38</sys_updated_on>
+        <url>x_serv4_portal_cer_certification_list.do?sysparm_fixed_query=u_audited=false</url>
         <width>400</width>
     </content_block_iframe>
 </record_update>

@@ -24,7 +24,14 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Certifica&ccedil;&atilde;o&nbsp;${number} cadastrada.</p>]]></message_html>
+        <message_html><![CDATA[<p>Cooperator: ${u_cooperator}</p>
+<p>Number: ${number}</p>
+<p>Purchase ID: ${u_id_compra}</p>
+<p>Category: ${u_category}</p>
+<p>Partner: ${u_partner}</p>
+<p>Code: ${u_code}</p>
+<p>Type: ${u_type}</p>
+<p>Description: ${u_description}</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Email Certificação</name>
@@ -47,7 +54,7 @@
         <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
         <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
         <sys_id>c0b780fddb4713809df332ffaa96195a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Email Certificação</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
@@ -56,7 +63,7 @@
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>sysevent_email_action_c0b780fddb4713809df332ffaa96195a</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-02 12:44:03</sys_updated_on>
+        <sys_updated_on>2018-07-24 16:47:53</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
