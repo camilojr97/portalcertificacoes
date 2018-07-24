@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="c90a2b444a3623120064ed56263be407" table="sys_script">
+<record_update sys_domain="global" table="sys_script">
     <sys_script action="INSERT_OR_UPDATE">
         <abort_action>false</abort_action>
         <access>package_private</access>
@@ -24,7 +24,7 @@
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>
-        <message><![CDATA[<p>ID Compra Status da Prova: ${u_id_compra.u_status}</p>]]></message>
+        <message/>
         <name>Aprovado</name>
         <onclick/>
         <order>100</order>
@@ -38,6 +38,8 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
+	// Add your code here
+	gs.addInfoMessage("Rodou");
 	// Add your code here	
 	var request = new GlideRecord('x_serv4_portal_cer_request_certified_purchase');
 	request.addEncodedQuery('sys_id='+current.u_id_compra);
@@ -51,22 +53,22 @@
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>camilo.moraes</sys_created_by>
-        <sys_created_on>2018-07-24 12:43:16</sys_created_on>
+        <sys_created_on>2018-07-24 20:51:28</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
-        <sys_domain_path>!!!/!!&lt;/</sys_domain_path>
-        <sys_id>591c51f4dbeb9b009df332ffaa9619c5</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>55ebc7bcdbef9b009df332ffaa96198a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Aprovado</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
-        <sys_update_name>sys_script_591c51f4dbeb9b009df332ffaa9619c5</sys_update_name>
+        <sys_update_name>sys_script_55ebc7bcdbef9b009df332ffaa96198a</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-24 13:26:37</sys_updated_on>
+        <sys_updated_on>2018-07-24 20:51:28</sys_updated_on>
         <template/>
-        <when>after</when>
+        <when>before</when>
     </sys_script>
 </record_update>
