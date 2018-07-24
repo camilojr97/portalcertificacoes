@@ -71,7 +71,7 @@
             </choice>
         </element>
         <element label="Password" max_length="40" name="u_password" type="string"/>
-        <element choice="1" label="Purchase Status" max_length="40" name="u_purchase_status" read_only="true" type="string">
+        <element choice="1" label="Purchase Status" max_length="40" name="u_purchase_status" type="string">
             <choice>
                 <element label="Approved" sequence="1" value="1"/>
                 <element label="Aprobado" language="es" sequence="1" value="1"/>
