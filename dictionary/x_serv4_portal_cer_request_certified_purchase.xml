@@ -20,6 +20,7 @@
         </element>
         <element label="Certificate" max_length="32" name="u_certificate" reference="u_registration_certificates" type="reference"/>
         <element hint="Endereço Completo do Site." label="Certificadora" max_length="1024" name="u_certifier" type="url"/>
+        <element default="true" label="Check Edition" max_length="40" name="u_check_edition" read_only="true" type="boolean"/>
         <element hint="Certification Code" label="Code" max_length="40" name="u_code" type="string"/>
         <element default="javascript:getuserCooperator()" dynamic_default_value="41e8eef06fc94300b19f17164b3ee4dd" label="Cooperator" max_length="32" name="u_cooperator" reference="u_cooperator" type="reference" use_dynamic_default="true"/>
         <element choice="1" label="Cost Center" max_length="32" name="u_cost_center" reference="cmn_cost_center" type="reference">
@@ -71,7 +72,7 @@
             </choice>
         </element>
         <element label="Password" max_length="40" name="u_password" type="string"/>
-        <element choice="1" label="Purchase Status" max_length="40" name="u_purchase_status" type="string">
+        <element choice="1" label="Purchase Status" max_length="40" name="u_purchase_status" read_only="true" type="string">
             <choice>
                 <element label="Approved" sequence="1" value="1"/>
                 <element label="Aprobado" language="es" sequence="1" value="1"/>

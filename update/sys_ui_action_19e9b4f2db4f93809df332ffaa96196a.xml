@@ -25,9 +25,16 @@
         <onclick/>
         <order>100</order>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-	
-	current.u_purchase_status = '7';
-	current.update();
+	if(current.u_reason_rejection != ''){
+		current.setAbortAction(true);
+		gs.addErrorMessage("O campo Motivo da Rejeição deve ser preenchido somente quando a solicitação for rejeitada");
+	}else{
+		current.u_purchase_status = '7';
+		if(current.u_check_edition){
+			current.u_check_edition = false;
+		}
+		current.update();
+	}
 
 })(current, previous);]]></script>
         <show_insert>false</show_insert>
@@ -41,7 +48,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>19e9b4f2db4f93809df332ffaa96196a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Aprovar</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
@@ -50,7 +57,7 @@
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>sys_ui_action_19e9b4f2db4f93809df332ffaa96196a</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-05 18:53:27</sys_updated_on>
+        <sys_updated_on>2018-08-31 20:18:53</sys_updated_on>
         <table>x_serv4_portal_cer_request_certified_purchase</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
