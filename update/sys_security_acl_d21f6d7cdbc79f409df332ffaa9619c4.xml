@@ -3,8 +3,10 @@
     <sys_security_acl action="INSERT_OR_UPDATE">
         <active>true</active>
         <admin_overrides>true</admin_overrides>
-        <advanced>true</advanced>
-        <condition/>
+        <advanced>false</advanced>
+        <condition table="x_serv4_portal_cer_certification">u_audited=false^EQ<item endquery="false" field="u_audited" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
         <description>Default access control on x_serv4_portal_cer_certification</description>
         <name>x_serv4_portal_cer_certification</name>
         <operation display_value="delete">delete</operation>
@@ -18,7 +20,7 @@ if(user.isMemberOf('Recursos Humanos')){
         <sys_created_on>2018-06-29 17:34:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>d21f6d7cdbc79f409df332ffaa9619c4</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>x_serv4_portal_cer_certification</sys_name>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
@@ -26,7 +28,7 @@ if(user.isMemberOf('Recursos Humanos')){
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
         <sys_update_name>sys_security_acl_d21f6d7cdbc79f409df332ffaa9619c4</sys_update_name>
         <sys_updated_by>camilo.moraes</sys_updated_by>
-        <sys_updated_on>2018-07-18 18:29:02</sys_updated_on>
+        <sys_updated_on>2018-09-03 14:12:11</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
