@@ -4,7 +4,7 @@
         <abort_action>false</abort_action>
         <access>package_private</access>
         <action_delete>false</action_delete>
-        <action_insert>false</action_insert>
+        <action_insert>true</action_insert>
         <action_label/>
         <action_name/>
         <action_query>false</action_query>
@@ -16,16 +16,14 @@
         <application/>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
-        <collection>x_serv4_portal_cer_request_certified_purchase</collection>
+        <collection>x_serv4_portal_cer_certification</collection>
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_serv4_portal_cer_request_certified_purchase">u_purchase_statusCHANGESTO1^EQ<item endquery="false" field="u_purchase_status" goto="false" newquery="false" operator="CHANGESTO" or="false" value="1"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter_condition>
+        <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>Create new Certificate</name>
+        <name>Preenche Códido e Parceiro - old</name>
         <onclick/>
         <order>100</order>
         <priority>100</priority>
@@ -40,39 +38,28 @@
 
 	// Add your code here
 	
-	var certification = new GlideRecord('x_serv4_portal_cer_certification');
-	certification.initialize();
-	//certification.u_id_compra = current.number;
-	certification.u_id_compra = current.sys_id;
-	certification.u_cooperator = current.u_cooperator;
-	certification.u_type = current.u_type;
-	certification.u_partner = current.u_partner;
-	certification.u_code = current.u_code;
-	certification.u_category = current.u_category;
-	certification.u_date_certification = current.u_exam_date;
-	certification.u_description = current.u_description;
-	certification.u_certificate = current.u_certificate;
-	certification.insert();
+	current.u_code = current.u_certificate.u_id;
+	current.u_partner = current.u_certificate.u_manufacturer;
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
-        <sys_created_by>camilo.moraes</sys_created_by>
-        <sys_created_on>2018-07-02 13:02:19</sys_created_on>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-17 19:24:23</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>b82a4831db8713809df332ffaa961918</sys_id>
-        <sys_mod_count>13</sys_mod_count>
-        <sys_name>Create new Certificate</sys_name>
+        <sys_id>09b60a6adb602f4036994410ba9619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preenche Códido e Parceiro - old</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
-        <sys_update_name>sys_script_b82a4831db8713809df332ffaa961918</sys_update_name>
+        <sys_update_name>sys_script_09b60a6adb602f4036994410ba9619b3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-17 19:14:22</sys_updated_on>
+        <sys_updated_on>2018-09-17 19:24:23</sys_updated_on>
         <template/>
-        <when>after</when>
+        <when>before</when>
     </sys_script>
 </record_update>

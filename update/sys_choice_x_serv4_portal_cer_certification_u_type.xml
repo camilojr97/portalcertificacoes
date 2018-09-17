@@ -6,7 +6,7 @@
             <element>u_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Technical</label>
+            <label>TECHNICAL</label>
             <language>en</language>
             <name>x_serv4_portal_cer_certification</name>
             <sequence>1</sequence>
@@ -15,9 +15,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>1b168ef8db0b9f409df332ffaa96190c</sys_id>
-            <sys_mod_count>8</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-19 19:31:33</sys_updated_on>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 19:39:31</sys_updated_on>
             <value>Technical</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -63,7 +63,7 @@
             <element>u_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Comercial</label>
+            <label>COMERCIAL</label>
             <language>pb</language>
             <name>x_serv4_portal_cer_certification</name>
             <sequence>2</sequence>
@@ -72,9 +72,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>05468ef8db0b9f409df332ffaa96191f</sys_id>
-            <sys_mod_count>6</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-19 19:32:14</sys_updated_on>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 19:39:00</sys_updated_on>
             <value>Sales</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -82,7 +82,7 @@
             <element>u_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Comercial</label>
+            <label>COMERCIAL</label>
             <language>es</language>
             <name>x_serv4_portal_cer_certification</name>
             <sequence>2</sequence>
@@ -91,9 +91,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>1c13e94fdbc7d3809df332ffaa9619f5</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-19 19:32:12</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 19:39:06</sys_updated_on>
             <value>Sales</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -101,7 +101,7 @@
             <element>u_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Sales</label>
+            <label>SALES</label>
             <language>en</language>
             <name>x_serv4_portal_cer_certification</name>
             <sequence>2</sequence>
@@ -110,9 +110,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9856cef8db0b9f409df332ffaa961944</sys_id>
-            <sys_mod_count>6</sys_mod_count>
-            <sys_updated_by>camilo.moraes</sys_updated_by>
-            <sys_updated_on>2018-07-19 19:32:10</sys_updated_on>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 19:39:44</sys_updated_on>
             <value>Sales</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -122,7 +122,7 @@
             <sys_created_by>camilo.moraes</sys_created_by>
             <sys_created_on>2018-06-29 19:14:58</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>ae2642f8db0b9f409df332ffaa961974</sys_id>
+            <sys_id>b154fc50db28ab4003a09d40ba96192d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_type</sys_name>
             <sys_package display_value="Portal de Certificações" source="x_serv4_portal_cer">c4e66068db8f1f403b7c7a30ba9619e6</sys_package>

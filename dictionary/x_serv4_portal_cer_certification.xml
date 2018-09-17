@@ -20,6 +20,7 @@
                 <element label="RFP" language="pb" sequence="4" value="4"/>
             </choice>
         </element>
+        <element label="Certificate" max_length="32" name="u_certificate" reference="u_registration_certificates" type="reference"/>
         <element hint="Codigo de la Certificación" label="Code" max_length="40" name="u_code" type="string"/>
         <element default="javascript:getuserCooperator()" dynamic_default_value="41e8eef06fc94300b19f17164b3ee4dd" label="Cooperator" max_length="32" name="u_cooperator" reference="u_cooperator" reference_qual="u_active=true^u_name.active=true^EQ" reference_qual_condition="u_active=true^u_name.active=true^EQ" type="reference" use_dynamic_default="true"/>
         <element label="Date of Certification" max_length="40" name="u_date_certification" type="glide_date"/>
@@ -44,21 +45,24 @@
         </element>
         <element choice="1" hint="Tipo de certificación" label="Type" max_length="40" name="u_type" type="string">
             <choice>
-                <element label="Technical" sequence="1" value="Technical"/>
+                <element label="TECHNICAL" sequence="1" value="Technical"/>
                 <element label="TECNICA" language="es" sequence="1" value="Technical"/>
                 <element label="TECNICA" language="pb" sequence="1" value="Technical"/>
-                <element label="Comercial" language="pb" sequence="2" value="Sales"/>
-                <element label="Comercial" language="es" sequence="2" value="Sales"/>
-                <element label="Sales" sequence="2" value="Sales"/>
+                <element label="COMERCIAL" language="pb" sequence="2" value="Sales"/>
+                <element label="COMERCIAL" language="es" sequence="2" value="Sales"/>
+                <element label="SALES" sequence="2" value="Sales"/>
             </choice>
         </element>
         <index name="index">
-            <element name="u_cooperator"/>
+            <element name="u_certificate"/>
         </index>
         <index name="index2">
-            <element name="u_id_compra"/>
+            <element name="u_cooperator"/>
         </index>
         <index name="index3">
+            <element name="u_id_compra"/>
+        </index>
+        <index name="index4">
             <element name="u_partner"/>
         </index>
     </element>

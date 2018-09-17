@@ -129,11 +129,11 @@
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Portal de Certificações">c4e66068db8f1f403b7c7a30ba9619e6</sys_scope>
-            <sys_update_name>sys_ui_list_cmdb_ci_printer_RPT1c791bc1d7200100c11180f29e610328_c90a2b444a3623120064ed56263be407</sys_update_name>
+            <sys_update_name>sys_ui_list_cmdb_ci_printer_RPT1c791bc1d7200100c11180f29e610328_56c8c68edbc353809df332ffaa961916</sys_update_name>
             <sys_updated_by>camilo.moraes</sys_updated_by>
             <sys_updated_on>2018-07-03 16:38:50</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt1c791bc1d7200100c11180f29e610328" name="RPT1c791bc1d7200100c11180f29e610328">1ac8c68edbc353809df332ffaa961915</view>
+            <view display_value="Rpt1c791bc1d7200100c11180f29e610328" name="RPT1c791bc1d7200100c11180f29e610328">b5e07450dbe4ab4003a09d40ba96195b</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

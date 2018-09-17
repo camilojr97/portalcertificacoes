@@ -39,7 +39,7 @@
                 <element label="Voucher" sequence="3" value="3"/>
             </choice>
         </element>
-        <element hint="Nome/Descrição da Certificação" label="Description" max_length="1000" name="u_description" type="string"/>
+        <element hint="Nome/Descrição da Certificação" label="Additional Information" max_length="1000" name="u_description" type="string"/>
         <element label="Exam Date" max_length="40" name="u_exam_date" type="glide_date"/>
         <element choice="1" hint="Idioma de la certificación" label="Language" max_length="40" name="u_language" type="choice">
             <choice>
